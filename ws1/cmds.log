@@ -1,0 +1,16 @@
+  305  cd ..
+  306  ls
+  307  cd ..
+  308  git clone https://github.com/rajupavithra/cs-131.git
+  309  cd cs-131
+  310  ls
+  311  cd ws1
+  312  ls
+  313  vi
+  314  vi cmds.log
+  315  vi cmds.log
+  316  vi cmds.log
+  317  vi cmds.log
+  318  vi cmds.log
+  319  ls
+  320  history
