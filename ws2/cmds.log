@@ -1,0 +1,190 @@
+    1  passwd
+    2  wget www.github.com 
+    3  ls - ltr
+    4  ls -ltr
+    5  pwd
+    6  ls
+    7  latr
+    8  nano
+    9  ls
+   10  cat feb1.txt 
+   11  nano feb1.txt 
+   12  ls
+   13  mkdir samples
+   14  cd samples
+   15  ls
+   16  vim sample.txt
+   17  cat sample.txt
+   18  vim sample.txt
+   19  cat sample.txt
+   20  vim sample.txt
+   21  vim sample2.txt
+   22  cat sapmle2.tx
+   23  vim sample2.txt
+   24  sort sample2.txt
+   25  wc sample2.txt
+   26  man wc
+   27  grep cvcvc sample2.txt
+   28  grep -i cs131 sample2.txt
+   29  grep word sample2.txt
+   30  wc -l sample2.txt
+   31  egrep" word.*wrd" sample2.txt
+   32  echo "me"
+   33  pwd
+   34  echo $HOME
+   35  echo '$HOME'
+   36  echo "$HOME"
+   37  'pwd'
+   38  "pwd"
+   39  wget https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+   40  pwd
+   41  ls
+   42  tar -zxvf amazon_reviews_us_Books_v1_02.tsv.gz
+   43  tar zxvf amazon_reviews_us_Books_v1_02.tsv.gz
+   44  gzip -d amazon_reviews_us_Books_v1_02.tsv.gz
+   45  ls
+   46  cat amazon_reviews_us_Books_v1_02.tsv 
+   47  vi amazon_reviews_us_Books_v1_02.tsv 
+   48  grep "verified" amazon_reviews_us_Books_v1_02.tsv 
+   49  grep "verified.*true" amazon_reviews_us_Books_v1_02.tsv 
+   50  grep "verified" amazon_reviews_us_Books_v1_02.tsv 
+   51  grep "verified.*true" amazon_reviews_us_Books_v1_02.tsv 
+   52  grep "verified.*false" amazon_reviews_us_Books_v1_02.tsv 
+   53  grep "verfied" amazon_reviews_us_Books_v1_02.tsv 
+   54  grep -v "verified" amazon_reviews_us_Books_v1_02.tsv 
+   55  wc amazon_reviews_us_Books_v1_02.tsv 
+   56  grep "verified" amazon_reviews_us_Books_v1_02.tsv | wc -lw
+   57  grep "verified" amazon_reviews_us_Books_v1_02.tsv |wc -l
+   58  grep "verified" amazon_reviews_us_Books_v1_02.tsv |wc -w
+   59  grep "verified" amazon_reviews_us_Books_v1_02.tsv | wc -l
+   60  grep "verified" amazon_reviews_us_Books_v1_02.tsv | wc -lw
+   61  grep -v  "verified" amazon_reviews_us_Books_v1_02.tsv |wc -lw
+   62   grep "verified" amazon_reviews_us_Books_v1_02.tsv | wc -lw
+   63  grep "verified" amazon_reviews_us_Books_v1_02.tsv | wc -lw > counts.txt
+   64  grep -v "verified" amazon_reviews_us_Books_v1_02.tsv | wc -lw >> counts.txt
+   65  ls
+   66  vi counts.txt 
+   67  ls
+   68  ls counts.txt 
+   69  touch counts.txt 
+   70  cat counts.txt 
+   71  history
+   72  history > cdms.log
+   73  ls
+   74  cat cdms.log 
+   75  pwd
+   76  cd /Desktop
+   77  cd ~/Desktop
+   78  ls
+   79  pwd
+   80  git clone https://github.com/rajupavithra/cs-131
+   81  cd cs-131/
+   82  mkdir ws2
+   83  cd ws2
+   84  cd ..
+   85  git add ws2
+   86  git commit -m "Added ws2"
+   87  git push
+   88  ls
+   89  mv cdms.log ws2
+   90  git push
+   91  ls
+   92  git push
+   93  ls
+   94  cd ws2
+   95  ls
+   96  pwd
+   97  cd ../..
+   98  ls
+   99  pwd
+  100  cp cdms.log cs-131/ws2/
+  101  cp counts.txt cs-131/ws2/
+  102  cd cs-131/ws2/
+  103  ls
+  104  cd ..
+  105  git add ws2
+  106  git commit -m "added ws2"
+  107  git remote add origin https://github.com/rajupavithra/cs-131
+  108  git push ws2
+  109  git push
+  110  ls
+  111  cd ws2
+  112  ls
+  113  pwd
+  114  cd..
+  115  cd../..
+  116  cd ..
+  117  git init
+  118  git add ws2
+  119  git commit -m "added ws2"
+  120  git push origin ws2
+  121  git push main ws2
+  122  git push ws2
+  123  pwd
+  124  ls
+  125  git init
+  126  git add  ws2
+  127  git commit -m "added ws2'
+  128  git commit -m "added ws2"
+  129  git remote add origin https://github.com/rajupavithra/cs-131.git
+  130  git push -u origin master
+  131  git push
+  132  ls
+  133  pwd
+  134  cd ..
+  135  ls
+  136  rm -rf cs-131
+  137  git clone https://github.com/rajupavithra/cs-131.git
+  138  ls
+  139  cd cs-131/
+  140  ls
+  141  mkdir ws2
+  142  git add ws2
+  143  git commit -m "added directory ws2"
+  144  git config --global pavithra.raju@sjsu.edu
+  145  git commit -m "added directory ws2"
+  146  git config  pavithra.raju@sjsu.edu
+  147  git commit -m "added directory ws2"
+  148  git config --global pavithra.raju@sjsu.edu
+  149  git config --global rajupavithra
+  150  git config --global user.email pavithra.raju@sjsu.edu
+  151  git config --global user.name rajupavithra
+  152  git commit -m "added directory ws2"
+  153  git push
+  154  ls
+  155  git add ws2
+  156  git commit -m "added directory ws2"
+  157  git push
+  158  man git
+  159  !
+  160  ls
+  161  cd ..
+  162  ls
+  163  rm -rf cs-131
+  164  ls
+  165  git clone https://github.com/rajupavithra/cs-131.git
+  166  ls
+  167  cd cs-131/
+  168  ls
+  169  mkdir ws2
+  170  git add ws2
+  171  git commit -m "added ws2 dir"
+  172  git push
+  173  ls
+  174  git remote add ws2  https://github.com/rajupavithra/cs-131.git
+  175  git push -u ws2 master
+  176  git push -u origin master
+  177  git pull
+  178  ls
+  179  cd ws2/
+  180  ls
+  181  pwd
+  182  ls
+  183  vi counts.txt
+  184  ls
+  185  vi counts.txt 
+  186  grep "verified" amazon_reviews_us_Books_v1_02.tsv |wc -lw >> counts.txt 
+  187  vi counts.txt 
+  188  ls
+  189  history
+  190  history >> cmds.log

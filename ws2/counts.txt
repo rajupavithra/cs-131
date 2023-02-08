@@ -1,0 +1,15 @@
+verfied reviews:
+
+line count:
+ 1439 
+
+word count:
+ 588540
+
+unverified reviews:
+
+line count:
+ 3104082
+
+word count:
+ 549581227
