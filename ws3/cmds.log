@@ -1,0 +1,56 @@
+  501  vi amazon_reviews_us_Books_v1_02.tsv 
+  502  less amazon_reviews_us_Books_v1_02.tsv 
+  503  :q
+  504  ls
+  505  pwd
+  506  ls
+  507  less amazon_reviews_us_Books_v1_02.tsv 
+  508  ls
+  509  less amazon_reviews_us_Books_v1_02.tsv awk -F'\t' '{print $2, $4}' <input file> | sort | uniq -c | sort -k 1,1 -nr > <sorted output file>
+  510  awk -F'\t' '{print $2, $14}' amazon_reviews_us_Books_v1_02.tsv | sort | uniq -c | sort -k 1,1 -nr > ws3.txt
+  511  less amazon_reviews_us_Books_v1_02.tsv 
+  512  awk -F'\t' '{print $2, $14}' amazon_reviews_us_Books_v1_02.tsv | sort | uniq -c | sort -k 2,2 -nr > ws3.txt
+  513  cut -f 2 amazon_reviews_us_Books_v1_02.tsv | sort | uniq -c | sort -nr | head -1
+  514   cut -f 2 amazon_reviews_us_Books_v1_02.tsv | sort | uniq -c | sort -nr | head -1 > ws3.txt
+  515  ls
+  516  vi ws3.txt
+  517  ls
+  518  less amazon_reviews_us_Books_v1_02.tsv 
+  519  pwd
+  520  man uniq
+  521  vi 
+  522  vi amazon_reviews_us_Books_v1_02.tsv 
+  523  2R1;95;0c10;rgb:0000/0000/000011;rgb:
+  524  cles
+  525  cls
+  526  clear
+  527  pwd
+  528  ls
+  529  less amazon_reviews_us_Books_v1_02.tsv 
+  530  less amazon_reviews_us_Books_v1_02.tsv
+  531  cut -f 1 amazon_reviews_us_Books_v1_02.tsv | sort | uniq -c
+  532  cut -f 2 amazon_reviews_us_Books_v1_02.tsv | sort | uniq -c
+  533  cut -f 2 amazon_reviews_us_Books_v1_02.tsv | sort | uniq -c | sort -nr 
+  534  tail -n +2 amazon_reviews_us_Books_v1_02.tsv |cut -f 2 | sort | uniq -c | sort -nr | head -n 3
+  535  tail -n +2 amazon_reviews_us_Books_v1_02.tsv |cut -f 4 | sort | uniq -c | sort -nr | head -n 3
+  536  pwd
+  537  ls
+  538  rm ws3.txt 
+  539  ls
+  540  less amazon_reviews_us_Books_v1_02.tsv 
+  541  tail -n +2 amazon_reviews_us_Books_v1_02.tsv |cut -f 2 | sort | uniq -c | sort -nr | head -n 3 > ws3.txt
+  542  ls
+  543  vi ws3.txt 
+  544  tail -n +2 amazon_reviews_us_Books_v1_02.tsv |cut -f 4 | sort | uniq -c | sort -nr | head -n 3 > ws3.txt 
+  545  vi ws3.txt 
+  546  vi ws3.txt
+  547  rm ws3.txt 
+  548  ls
+  549  tail -n +2 amazon_reviews_us_Books_v1_02.tsv |cut -f 2 | sort | uniq -c | sort -nr | head -n 3 > ws31.txt
+  550  tail -n +2 amazon_reviews_us_Books_v1_02.tsv |cut -f 4 | sort | uniq -c | sort -nr | head -n 3 > ws32.txt 
+  551  tail -n +2 amazon_reviews_us_Books_v1_02.tsv |cut -f 6 | sort | uniq -c | sort -nr | head -n 3 > ws32.txt 
+  552  vi ws32.txt 
+  553  cat ws31.txt ws32.txt > ws3.txt
+  554  vi ws3.txt 
+  555  ls
+  556  history > cmds.log

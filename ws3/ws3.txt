@@ -1,0 +1,12 @@
+Top three most reviewed customer ids:
+ 
+1) 21922 reviews from customer id: 50122160
+2) 9964 reviews from customer id: 50732546
+3) 2664 reviews from customer id: 52615377
+
+
+Top three most reviewed products:
+ 
+1) 4862 reviews for product: Harry Potter and the Order of the Phoenix (Book 5)
+2) 3740 reviews for product: Harry Potter And The Goblet Of Fire (Book 4)
+3) 2707 reviews for product: The Da Vinci Code
