@@ -1,0 +1,32 @@
+Script started on 2023-02-26 20:00:07-05:00
+bash-4.4$ l
+total 3163136
+-rw-rw-r--  1 pavithra23sp pavithra23sp 3238702530 Nov 24  2017 amazon_reviews_us_Books_v1_02.tsv
+-rw-rw-r--  1 pavithra23sp pavithra23sp        165 Jan 30 23:35 .wget-hsts
+-rw-rw-r--  1 pavithra23sp pavithra23sp     220899 Jan 30 23:35 index.html
+-rw-rw-r--  1 pavithra23sp pavithra23sp         34 Feb  1 17:36 feb1.txt
+-rw-rw-r--  1 pavithra23sp pavithra23sp         50 Feb  1 17:39 feb1.txt.save.1
+-rw-------  1 pavithra23sp pavithra23sp          0 Feb  1 17:39 feb1.txt.save
+drwxrwxr-x  2 pavithra23sp pavithra23sp       4096 Feb  6 17:15 samples
+drwxr-xr-x 69 root         root               4096 Feb  6 18:09 ..
+-rw-rw-r--  1 pavithra23sp pavithra23sp         60 Feb  7 01:12 .gitconfig
+-rw-r--r--  1 pavithra23sp pavithra23sp      12288 Feb  7 17:24 .counts.txt.swp
+drwxrwxr-x  2 pavithra23sp pavithra23sp       4096 Feb  7 23:47 ws2
+-rw-rw-r--  1 pavithra23sp pavithra23sp         29 Feb  8 17:02 out.txt
+-rw-r--r--  1 pavithra23sp pavithra23sp      12288 Feb  8 17:26 .feb1.txt.swp
+-rw-rw-r--  1 pavithra23sp pavithra23sp         51 Feb 15 00:46 ws31.txt
+-rw-rw-r--  1 pavithra23sp pavithra23sp        138 Feb 15 00:51 ws32.txt
+drwxrwxr-x  3 pavithra23sp pavithra23sp       4096 Feb 15 01:16 ws3
+drwxrwxr-x  7 pavithra23sp pavithra23sp       4096 Feb 15 01:24 .git
+drwxrwxr-x  6 pavithra23sp pavithra23sp       4096 Feb 15 01:55 cs-131
+-rw-rw-r--  1 pavithra23sp pavithra23sp         44 Feb 26 19:13 .bash_aliases
+-rw-rw-r--  1 pavithra23sp pavithra23sp         41 Feb 26 19:55 .bashrc
+-rw-------  1 pavithra23sp pavithra23sp      12077 Feb 26 19:55 .bash_history
+-rw-------  1 pavithra23sp pavithra23sp      17416 Feb 26 19:58 .viminfo
+-rw-rw-r--  1 pavithra23sp pavithra23sp          0 Feb 26 20:00 ws4.txt
+drwxr-x---  7 pavithra23sp root               4096 Feb 26 20:00 .
+bash-4.4$ w
+     25     218    1798
+bash-4.4$ exit
+
+Script done on 2023-02-26 20:00:54-05:00

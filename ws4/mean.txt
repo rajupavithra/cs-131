@@ -1,0 +1,2 @@
+Mean of customer id helpfulness scores :4488.07614213197969543147
+Mean of product id helpfulness scores :273.13636363636363636363

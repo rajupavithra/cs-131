@@ -1,0 +1,63 @@
+  749  ls -latr
+  750  vi ~/.bashrc
+  751  source  ~/.bashrc
+  752  vi ~/.bashrc
+  753  source  ~/.bashrc
+  754  ll
+  755  w
+  756  source ~/.bashrc
+  757  w
+  758  ll
+  759  vi ~/.bashrc
+  760  l
+  761  vi .bashrc
+  762  l
+  763  w
+  764  script ws4.txt
+  765  mkdir ws4
+  766  cd ws4
+  767  mkdir CUSTOMERS
+  768  mkdir PRODUCTS
+  769  cd ..
+  770  ls
+  771  less amazon_reviews_us_Books_v1_02.tsv 
+  772  ls
+  773  pwd
+  774  vi ws4.txt 
+  775  history
+  776  cut -f 2,9 amazon_reviews_us_Books_v1_02.tsv | sort -k1,1 | uniq -c
+  777  cut -f 2,9 amazon_reviews_us_Books_v1_02.tsv | sort -k1,1 | uniq -c | awk '$1 > 1 {print $2}'
+  778  cd ws4
+  779  ls
+  780  cd C
+  781  cd CUSTOMERS/
+  782  ls
+  783  cd ..
+  784  grep -w '53092736' amazon_reviews_us_Books_v1_02.tsv| cut -f9 > ws4/CUSTOMERS/customerid53092736.txt
+  785  cat ws4/CUSTOMERS/customerid53092736.txt
+  786  cd ws4
+  787  ls
+  788  cd PRODUCTS/
+  789  ls
+  790  cd ../..
+  791  cut -f 4,9 amazon_reviews_us_Books_v1_02.tsv | sort -k1,1 | uniq -c
+  792  cd ws4
+  793  ls
+  794  cd PRODUCTS/
+  795  ls
+  796  cd ../..
+  797  grep -w 'B00005R8BM' amazon_reviews_us_Books_v1_02.tsv | cut -f9 >ws4/PRODUCTS/productidB00005R8BM.txt
+  798  cat ws4/PRODUCTS/productidB00005R8BM.txt
+  799  cd ws4
+  800  ls
+  801  cd PRODUCTS/
+  802  ls
+  803  cd..
+  804  cd ..
+  805  cd CUSTOMERS/
+  806  ls
+  807  cd ../..
+  808  echo "$(paste -sd+ ws4/CUSTOMERS/customerid53092736.txt) / $(wc -l < ws4/CUSTOMERS/customerid53092736.txt)" | bc -l
+  809  echo "$(paste -sd+ ws4/PRODUCTS/productidB00005R8BM.txt) / $(wc -l < ws4/PRODUCTS/productidB00005R8BM.txt)" | bc -l
+  810  ls
+  811  history >cmds.log
