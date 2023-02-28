@@ -1,0 +1,80 @@
+895  ls
+  896  mkdir a1
+  898  cd a1
+  899  echo $HOME
+  900  id
+  902  mkdir temp
+  903  chmod u-x temp
+  904  cd temp
+  905  ls temp
+  906  ls -l temp
+  907  ls temp
+  908  echo "test" > temp/test.txt
+  909  touch temp\test.txt
+  910  touch \temp\tes.txt
+  914  mkdir temp2
+  915  mv temp2 temp3
+  916  ls
+  917  mkdir temp4
+  918  cp -r temp3 temp4
+  919  cd ..
+  923  cd /proc/
+  924  ls -la
+  925  ls -la| grep mem
+  926  ls - la| grep cpu
+  927  ls -la | grep cpu
+  928  ls -l| grep cpu
+  929  ls -l| grep mem
+  930  head /proc/meminfo
+  936  tail /proc/cpuinfo
+  937  cat /proc/cpuinfo
+  938  grep processor /proc/cpuinfo | wc -l
+  939  cat /proc/cpuinfo | grep "IBM,8286-42A"
+  940  cat /proc/cpuinfo | grep "cpu MHz"
+  941  cat /proc/cpuinfo | grep model
+  942  cat /proc/cpuinfo | grep clock
+  943  echo "scale=3; 3525 / 1000" | bc
+  944  cp /home/test/A1/downloaded_hashtags_extend.csv ~/a1/
+  945  ls
+  946  pwd
+  947  ls
+  948  cd home
+  949  ls
+  950  cd ..
+  951  cd ~/
+  952  ls
+  953  pwd
+  954  cd ~/
+  955  pwd
+  956  ls
+  957  cd a1
+  958  ls
+  959  wc -l downloaded_hashtags_extend.csv
+  960  du -h --apparent-size downloaded_hashtags_extend.csv
+  961  size_in_gb=$(du -s downloaded_hashtags_extend.csv | awk '{print $1 / 1024}')
+  962  echo "$size_in_gb GB"
+  963  grep -i 'great' downloaded_hashtags_extend.csv | wc -l
+  964  file -i downloaded_hashtags_extend.csv
+  967  head -n 1 downloaded_hashtags_extend.csv
+  968  cut -d ',' -f 1 downloaded_hashtags_extend.csv | sort -u | wc -l
+  969  cut -d ',' -f 4 downloaded_hashtags_extend.csv | sort -u | wc -l
+  970  cut -d ',' -f 2 downloaded_hashtags_extend.csv | tr ',' '\n' | sort -u | wc -l
+  pwd
+ 1095  ls
+ 1096  iconv -f utf-8 -t ascii downloaded_hashtags_extend.csv > downloaded_hashtags_extend_ascii.csv
+ 1097  iconv -f utf-8 -t ascii//TRANSLIT  downloaded_hashtags_extend.csv > downloaded_hashtags_extend_ascii.csv
+ 1098  vi downloaded_hashtags_extend_ascii.csv
+ 1099  iconv -f utf-8 -t ascii//TRANSLIT/downloaded_hashtags_extend.csv > downloaded_hashtags_extend_ascii.csv
+ 1100  head downloaded_hashtags_extend,csv
+ 1101  head downloaded_hashtags_extend.csv
+ 1102  head downloaded_hashtags_extend_ascii.csv
+ 1103  vi downloaded_hashtags_extend_ascii.csv
+ 1104  iconv -f utf-8 -t ascii//TRANSLIT/downloaded_hashtags_extend.csv > downloaded_hashtags_extend_ascii.csv
+ 1105  iconv -f utf-8 -t ascii//TRANSLIT  downloaded_hashtags_extend.csv > downloaded_hashtags_extend_ascii.csv
+ 1106  head downloaded_hashtags_extend_ascii.csv
+ 1107  head downloaded_hashtags_extend.csv
+ 1108  file -i downloaded_hashtags_extend_ascii.csv
+  history >cmds2.log
+  
+
+

@@ -1,0 +1,34 @@
+1) mkdir a1
+   cd a1
+
+2)command used: echo $HOME
+home directory path: /mnt/scratch/pavithra23sp
+
+3)command used: id
+uid=1058(pavithra23sp),  gid=1060(pavithra23sp) groups=1060(pavithra23sp) 
+
+4) After removing execute permission for temp directory: No, I cannot do cd for temp as permission is denied, commands ls, ls -l do not work on temp. Also i cannot create files under temp as permission is denied.
+
+5) Yes I am able to move temp2 directory to temp3 directory using mv command. To cp an entire directory: cp -r source_directory destination_directory. cp -r temp3 temp4.
+
+6) under directory /proc/ -  meminfo file  contains information about memory (mem) on my server.
+ cpuinfo file contains information about the cpu's on my server.
+
+7)total memory is on my server - 73080640 kB
+
+8)processors on my  server - 256, processor architecture name (-lscpu | grep Architecture): ppc64le , processor speed - 3.525 GHz.
+
+9) size in GB (GigaBytes) of the hashtags tweet dataset -7.46094 GB , no of lines in dataset - 110350  
+
+10)hashtags contain this word 'great' - 57 
+
+11)character encoding - utf-8 character encoding 
+
+12)iconv -f utf-8 -t ascii//TRANSLIT  downloaded_hashtags_extend.csv > downloaded_hashtags_extend_ascii.csv
+   file -i downloaded_hashtags_extend_ascii.csv
+
+   output - downloaded_hashtags_extend_ascii.csv: text/plain; charset=us-ascii
+
+
+13) unique users - 177, unique tweets - 64698 , unique hashtags - 20258 . No of unique hashtags is less than the no of unique tweets.
+
