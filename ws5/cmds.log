@@ -1,0 +1,28 @@
+  937  cd ..
+  938  ls
+  939  less amazon_reviews_us_Books_v1_02.tsv 
+  940  mkdir ws5
+  941  ls
+  942  cd ws5
+  943  mkdir CUSTOMERS
+  944  cd CUSTOMERS/
+  945  cd ..
+  956  ls
+ 1009  cd CUSTOMERS/
+ 1012  cd ..
+ 1013  ls
+ 1015  ls
+ 1016  cd ..
+ 1017  ls
+ 1018  tail -n +2 amazon_reviews_us_Books_v1_02.tsv | cut -f2,14 | sort | uniq -c | sort -nr | head -n 200 | awk '{print $2}' | while read -r customer_id; do     awk -v id="$customer_id" -F'\t' '$2 == id {print $14}' amazon_reviews_us_Books_v1_02.tsv >> CUSTOMERS/"$customer_id".txt; done
+ 1019  pwd
+ 1022  ls
+ 1023  cd CUSTOMERS/
+ 1024  ls
+ 1025  vi 52859771.txt
+ 1026  cd ..
+ 1027  ls
+ 1028  cp -r CUSTOMERS/ ws5/
+ 1029  cd ws5/
+ 1030  ls
+ 1031  history > cmds.log
