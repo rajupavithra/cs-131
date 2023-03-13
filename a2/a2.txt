@@ -1,0 +1,72 @@
+1)  Top  10 users who replied the most to other users: 
+        top10users
+     46 3453306553
+     28 29447428
+     14 1238370241169616897
+     13 1108565574
+     12 21525682
+     12 19739126
+     12 1120633726478823425
+     11 1462548977367359490
+     10 95091601
+     10 48624704
+
+2)  Top 10 users who got the most replies from other users:
+        top 10 users
+    375 1891490382
+    299 18831926
+    274 163018653
+    274 1495480590572961792
+    254 1231514832479948802
+    249 1219232377605644289
+    174 42836999
+    159 1229752606714728454
+    158 813314931147816960
+    141 1290232189615894531
+
+3) Top 10 users who retweeted the most other tweets:
+
+        top 10 users
+   2065 45379403
+   1678 77726331
+   1641 870244616003403781
+   1582 1028022611324747776
+   1312 711608180535640064
+   1281 139109800
+   1234 177400353
+   1216 832019161454817280
+   1159 29447428
+   1139 1060440219097423872
+
+4) the 30 hashtags used most frequently overall for anything:
+        top 30 hashtags
+    1266 Ukraine
+    945 COVID19
+    870 LongCovid
+    833 "FBPE,FollowBackFriday"
+    320 Russia
+    305 BREAKING
+    257 PMQs
+    208 auspol
+    181 StandWithUkraine
+    177 AmiesMovieRating
+    176 Omicron
+    168 Mariupol
+    136 Kyiv
+    135 BA2
+    122 "Russia,Ukraine"
+    120 COVID
+    118 Bales2022FilmChallenge
+    111 Putin
+    108 COVIDisAirborne
+    107 "PutinHitler,StandWithUkraine,PutinHitler,PutinWarCriminal,StopPutinNOW,RussiaSanctions,BoycottRussia"
+    107 ClimateCrisis
+    106 BoycottATP
+    105 Russian
+     98 "cathrynhartt,harttandsoul,actor,actorslife"
+     97 Covid19
+     93 Partygate
+     87 TikTok
+     85 longcovid
+     80 Ottawa
+     79 Brexit

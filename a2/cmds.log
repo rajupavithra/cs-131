@@ -1,0 +1,32 @@
+  929  ls
+  930  pwd
+  931  cd /home/pavithra23sp/ls
+  932  cd /home/pavithra23sp/
+  933  ls
+  934  pwd
+  935  cp /home/test/A1/downloaded_tweets_extend_nolf2.tsv .
+  936  ls
+  937  cp /home/test/A1/downloaded_tweets_extend_original_nolf2.tsv .
+  938  ls
+  939  pwd
+  953  ls
+  954  mkdir a1
+  955  ls
+  956  less downloaded_tweets_extend_original_nolf2.tsv 
+  993  cut -f2,6 downloaded_tweets_extend_original_nolf2.tsv | grep -v '^$' | awk '{if($1!=$2)print $2}' | sort | uniq -c | sort -rn | head -n10
+  994  less downloaded_tweets_extend_nolf2.tsv 
+  995  cut -f2,6 downloaded_tweets_extend_original_nolf2.tsv | grep -v '^$' | grep -v '^$' | awk '{if($1!=$2)print $2}' | sort | uniq -c | sort -rn | head -n10
+  996  cut -f2,6 downloaded_tweets_extend_original_nolf2.tsv | grep -v '^$' | grep -v '^$' | awk '{if($1!=$2)print $1}' | sort | uniq -c | sort -rn | head -n10
+ 1002  history
+ 1006  vi a2.txt 
+ 1007  cut -f 2,5 downloaded_tweets_extend_nolf2.tsv | grep 'type=retweeted' | cut -f 1 | sort | uniq -c | sort -rn | head -n 10
+ 1008  cut -f 4 downloaded_tweets_extend_nolf2.tsv | grep -v '^$' | sort | uniq -c | sort -rn | head -n 30
+ 1009  history
+ 1011  ls
+ 1012  vi a2.txt 
+ 1013  cut -f 2,5 downloaded_tweets_extend_nolf2.tsv | grep 'type=retweeted' | cut -f 1 | sort | uniq -c | sort -rn | head -n 10 >> a2.txt
+ 1014  vi a2.txt 
+ 1015  cut -f 4 downloaded_tweets_extend_nolf2.tsv | grep -v '^$' | sort | uniq -c | sort -rn | head -n 30
+ 1016   cut -f 4 downloaded_tweets_extend_nolf2.tsv | grep -v '^$' | sort | uniq -c | sort -rn | head -n 30 >> a2.txt
+ 1017  vi a2.txt
+ 1018  history >cmds.log
