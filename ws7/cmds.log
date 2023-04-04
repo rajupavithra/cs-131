@@ -1,0 +1,17 @@
+ 1049  less amazon_reviews_us_Books_v1_02.tsv 
+ 1052  awk '$12=="Y" {print}' amazon_reviews_us_Books_v1_02.tsv| sort > verified.txt
+ 1053  vi verified.txt 
+ 1054  head -n 20 verified.txt > verified_head20.txt
+ 1055  vi verified_head20.txt 
+ 1067  awk -F'\t' '$12=="Y" {print $13}' verified.txt | tr '[:upper:]' '[:lower:]' | tr -d '[:punct:]' | tr ' ' '\n' | sort | uniq -c | sort -rn | head -n 10 > top10.txt
+ 1068  vi top10.txt 
+ 1069  ls
+ 1070  mkdir ws7
+ 1073  cd ws7
+ 1074  ls
+ 1082  mv verified_head20.txt top10.txt ws7
+ 1083  ls
+ 1084  cd ws7
+ 1085  ls
+ 1086  vi verified_head20.txt 
+ 1087  history > cmds.log

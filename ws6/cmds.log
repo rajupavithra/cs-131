@@ -1,0 +1,22 @@
+  997  ls
+  998  less amazon_reviews_us_Books_v1_02.tsv 
+ 1004  sed -n '/^[^\t]*\t[^\t]*\t[^\t]*\t[^\t]*\t[^\t]*\t[^\t]*\t[^\t]*\t[^\t]*\t[^\t]*\t[^\t]*\tN\t/p' amazon_reviews_us_Books_v1_02.tsv > unverified.txt
+ 1005  vi unverified.txt 
+ 1006  head -n 20 unverified.txt > unverified_head20.txt 
+ 1007  vi unverified_head20.txt 
+ 1009  sed -n '/\t1844161560\t/p' unverified.txt > 1844161560.txt
+ 1010  vi 1844161560.txt 
+ 1012  less amazon_reviews_us_Books_v1_02.tsv 
+ 1013  sed 's/,//g; s/\.\|;//g; s/\bto\b//g' 1844161560.txt | cut -f14 > 1844161560_task5.txt
+ 1014  vi 1844161560_task5.txt 
+ 1015  sed 's/<[^>]*>//g' 1844161560_task5.txt > 1844161560_task6.txt
+ 1016  vi 1844161560_task6.txt 
+ 1017  vi 1844161560_task5.txt 
+ 1020  mkdir ws6
+ 1021  ls
+ 1022  mv unverified_head20.txt ws6
+ 1027  mv 1844161560.txt ws6
+ 1032  mv 1844161560_task5.txt 1844161560_task6.txt ws6
+ 1033  ls
+ 1034  cd ws6
+ 1036  history >cmds.log
