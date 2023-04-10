@@ -1,0 +1,70 @@
+  909  ls
+  910  cd test
+  913  ls
+  915  cp /home/test/A1/downloaded_tweets_extend_nolf2.tsv .
+  916  ls
+  917  less downloaded_tweets_extend_nolf2.tsv 
+  938  awk -F '\t' 'NR>1 && $6!="" && $2!=$6 {print $6 " " $2}' downloaded_tweets_extend_nolf2.tsv| uniq > task1.txt
+  939  vi task1.txt
+  940  awk '{a[$1]++} END {for (i in a) if (a[i]>=3) print i, a[i]}' task1.txt > task2.txt
+  941  vi task2.txt 
+  942  ls
+  943  vi task1.txt 
+  944  vi task2.txt 
+  953  wget https://sourceforge.net/projects/gnuplot/files/gnuplot/5.4.6/gnuplot-5.4.6.tar.gz
+  954  gzip -d gnuplot-5.4.6.tar.gz
+  955  tar xvf gnuplot-5.4.6.tar
+  956  cd gnuplot-5.4.6/
+  957  ./configure --disable-dependency-tracking
+  958  make check
+  959  cd src/
+  998  awk '{a[$2]++} END {for(i in a) print i,a[i]}' task2.txt | sort -n > task3.txt
+ 1000  vi task3.txt 
+ 1001  ls
+ 1002  pwd
+ 1003  cd gnuplot-5.4.6/
+ 1004  cd src
+ 1005  ./gnuplot 
+ 1006  vi /mnt/scratch/pavithra23sp/task3.txt/
+ 1022  vi task3.txt
+ 1043  cd scr
+ 1044  cd src/
+ 1045  ls
+ 1046  ./gnuplot 
+ 1047  cd ../..
+ 1048  ls
+ 1049  pwd
+ 1050  vi task3.txt 
+ 1051  pwd
+ 1052  cd gnuplot-5.4.6/
+ 1053  ls
+ 1054  cd src/
+ 1055  ./gnuplot 
+ 1056  ./gnuplot
+ 1057  cd ../..
+ 1058  ls
+ 1059  mkdir a3
+ 1060  cd a3
+ 1061  cd ..
+ 1062  pwd
+ 1063  cp task1.txt a3/
+ 1064  cp task2.txt a3/
+ 1065  cp task3.txt a3/
+ 1066  cd a3
+ 1067  ls
+ 1068  vi task1.txt 
+ 1069  vi task2.txt 
+ 1070  vi task3.txt 
+ 1071  cd ..
+ 1072  pwd
+ 1073  cp gnuplot-5.4.6/src/bargraph.svg a3/
+ 1074  cp gnuplot-5.4.6/src/latest_try_11.svg a3/
+ 1075  cp gnuplot-5.4.6/src/latest_try_10.svg a3/
+ 1076  cd a3
+ 1077  ls
+ 1078  mv bargraph.svg h1.svg
+ 1079  ls
+ 1080  mv latest_try_10.svg h4_1.svg
+ 1081  mv latest_try_11.svg h4_2.svg
+ 1082  ls
+ 1083  history > cmds.log
