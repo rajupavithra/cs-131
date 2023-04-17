@@ -1,0 +1,3 @@
+wc - l amazon_dataset.tsv = 3105520
+Using x = 10 , here the random percentange is 10 
+wc -l sampled.txt = (3105520 *10)/100 = 310552
