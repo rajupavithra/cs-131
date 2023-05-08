@@ -1,0 +1,2 @@
+Minimum value: -24.55379435 
+Maximum value: 20

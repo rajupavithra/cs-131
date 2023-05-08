@@ -1,0 +1,10 @@
+adenylate kinase 7 8.520237
+protein GTLF3B 7.654235
+ATP-binding cassette sub-family A member 9 7.555021
+hemoglobin subunit epsilon 7.320944
+platelet factor 4 variant precursor 6.584206
+ATP-binding cassette sub-family D member 2 6.530123
+"type 2 lactosamine alpha-2 6.421433
+hemoglobin subunit gamma-2 6.379532
+hemoglobin subunit gamma-1 6.334954
+putative tyrosine-protein phosphatase auxilin isoform 3 6.137810

@@ -1,0 +1,10 @@
+"alpha-1 1.219874
+serpin I2 isoform 2 precursor 1.130773
+dihydropyrimidinase 1.121040
+hyaluronan and proteoglycan link protein 4 precursor 1.069777
+alpha-internexin 0.954235
+neurofilament medium polypeptide isoform 1 0.934838
+von Willebrand factor A domain-containing protein 3A precursor 0.919168
+neurofilament medium polypeptide isoform 2 0.907259
+prostaglandin-H2 D-isomerase precursor 0.881451
+retinol-binding protein 4 precursor 0.873182

@@ -1,0 +1,10 @@
+putative G antigen family E member 3 -9.197259
+P antigen family member 2 -9.133835
+alpha-lactalbumin precursor -7.552037
+cocaine- and amphetamine-regulated transcript protein preproprotein -7.295226
+carboxypeptidase B preproprotein -6.303350
+olfactory receptor 2AG1 -5.878057
+secretogranin-1 precursor -5.721688
+cathelicidin antimicrobial peptide preproprotein -5.687835
+phenylethanolamine N-methyltransferase -5.666319
+C-type lectin domain family 3 member A isoform 1 precursor -5.565665

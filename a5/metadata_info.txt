@@ -1,0 +1,11 @@
+No of entries = 12554 in 77_cancer_proteomes_CPTAC_itraq.csv dataset.
+86 no of features(comumns) in this dataset.
+
+  File: 77_cancer_proteomes_CPTAC_itraq.csv
+  Size: 12415390  	Blocks: 24256      IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 46007496    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1058/pavithra23sp)   Gid: ( 1060/pavithra23sp)
+Access: 2023-05-07 19:45:31.661013912 -0400
+Modify: 2023-05-07 17:52:19.793507561 -0400
+Change: 2023-05-07 17:52:19.793507561 -0400
+ Birth: 2023-05-07 17:52:09.023464002 -0400

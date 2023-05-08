@@ -1,0 +1,10 @@
+centromere protein I -8.215058
+amyloid beta A4 precursor protein-binding family B member 1 isoform b -7.914589
+zinc finger CCCH domain-containing protein 10 -7.364038
+PREDICTED: prothymosin alpha-like -6.566071
+TNFAIP3-interacting protein 3 isoform 3 -6.464385
+PREDICTED: prothymosin alpha-like -6.180251
+zinc finger CCHC domain-containing protein 14 -6.048186
+transmembrane protein 165 precursor -5.841594
+carboxylesterase 3 isoform 1 precursor -5.759845
+cancer-associated gene 1 protein isoform 1 -5.739344

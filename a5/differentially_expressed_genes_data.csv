@@ -1,0 +1,1446 @@
+NP_001611,AHNAK,neuroblast differentiation-associated protein AHNAK isoform 1,0.383035,2.453594
+NP_076965,AHNAK,neuroblast differentiation-associated protein AHNAK isoform 2,0.185413,2.805300
+NP_001714,DST,bullous pemphigoid antigen 1 isoform 1e precursor,-0.024754,2.408782
+NP_001074248,MYO1C,unconventional myosin-Ic isoform a,0.455212,3.246877
+NP_001074419,MYO1C,unconventional myosin-Ic isoform b,0.460804,3.207259
+NP_060227,ZNF407,zinc finger protein 407 isoform 1,-0.811186,4.717893
+NP_000251,MYO7A,unconventional myosin-VIIa isoform 1,-0.800483,2.238216
+NP_057323,MYO15A,unconventional myosin-XV,-0.134857,5.638354
+NP_000375,APOB,apolipoprotein B-100 precursor,0.221710,3.216920
+NP_001020029,SPTB,"spectrin beta chain,-1.096024,3.192040
+NP_000338,SPTB,"spectrin beta chain,-1.097330,3.191587
+NP_004360,COL6A3,collagen alpha-3(VI) chain isoform 1 precursor,0.618091,2.781160
+NP_476507,COL6A3,collagen alpha-3(VI) chain isoform 4 precursor,0.651217,2.984606
+NP_055874,TLN2,talin-2,0.395633,2.776321
+NP_003997,DMD,dystrophin Dp427m isoform,0.234322,2.422197
+NP_000055,C3,complement C3 precursor,0.423309,3.917700
+NP_061027,LRP1B,low-density lipoprotein receptor-related protein 1B precursor,0.472100,4.015129
+NP_003117,SPTA1,"spectrin alpha chain,-1.433001,3.524801
+NP_000468,ALB,serum albumin preproprotein,0.626411,4.927567
+NP_002696,PPL,periplakin,-0.197468,1.802580
+NP_001254479,NA,titin isoform IC,-0.488493,1.942929
+NP_596870,TTN,titin isoform novex-3,-0.689260,-2.750915
+NP_002151,TNC,tenascin precursor,-0.059172,-2.115295
+NP_061978,NA,tenascin-X isoform 1 precursor,0.371124,3.082837
+NP_004516,LRP2,low-density lipoprotein receptor-related protein 2 precursor,-2.792079,0.928297
+NP_001229752,NA,complement C4-B-like preproprotein,0.345288,3.875202
+NP_001002029,C4B,complement C4-B preproprotein,0.349108,3.876303
+NP_009224,C4A,complement C4-A isoform 1 preproprotein,0.348849,3.850757
+NP_000543,VWF,von Willebrand factor preproprotein,0.483694,2.500204
+NP_937762,LAMA3,laminin subunit alpha-3 isoform 1 precursor,-0.336995,2.337127
+NP_001084,ACACB,acetyl-CoA carboxylase 2 precursor,-0.099925,3.186860
+NP_002449,NA,mucin-5B precursor,-2.987459,-0.183170
+NP_000005,A2M,alpha-2-macroglobulin precursor,0.048255,4.284153
+NP_002855,PZP,pregnancy zone protein precursor,0.113973,3.890909
+NP_940980,LRRK2,leucine-rich repeat serine/threonine-protein kinase 2,-0.281907,-3.598409
+NP_066933,COL14A1,collagen alpha-1(XIV) chain precursor,0.035041,3.730855
+NP_000028,ANK1,ankyrin-1 isoform 3,-1.216761,4.562871
+NP_065210,ANK1,ankyrin-1 isoform 2,-1.210415,4.581160
+NP_066187,ANK2,ankyrin-2 isoform 2,0.221886,2.228928
+NP_001054,TF,serotransferrin precursor,0.542350,4.629536
+NP_002283,LAMB2,laminin subunit beta-2 precursor,0.417910,4.288735
+NP_031382,LAMB4,laminin subunit beta-4 precursor,0.248124,4.850132
+NP_002284,LAMC1,laminin subunit gamma-1 precursor,0.432238,3.050783
+NP_006050,LAMC3,laminin subunit gamma-3 precursor,0.676444,3.377800
+NP_001098677,NA,laminin subunit alpha-4 isoform 2 precursor,0.503767,3.702522
+NP_071374,ASCC3,activating signal cointegrator 1 complex subunit 3 isoform b,0.041339,-3.550247
+NP_002263,NA,"keratin,-0.578151,1.612117
+NP_778253,KRT77,"keratin,-2.454972,0.978160
+NP_005373,NEFM,neurofilament medium polypeptide isoform 1,0.934838,4.670161
+NP_000414,KRT2,"keratin,-2.177334,2.371700
+NP_006253,PRPH,peripherin,0.469883,3.711980
+NP_476429,KRT3,"keratin,-0.611014,1.600774
+NP_116116,INA,alpha-internexin,0.954235,4.790175
+NP_001099011,NEFM,neurofilament medium polypeptide isoform 2,0.907259,4.670161
+NP_778223,KRT74,"keratin,-1.317332,1.654015
+NP_258259,KRT71,"keratin,-0.871812,1.889758
+NP_778238,KRT73,"keratin,-1.645377,1.521028
+NP_149022,KRT82,"keratin,-3.481138,0.202417
+NP_001918,DES,desmin,-0.070003,3.448162
+NP_000415,KRT5,"keratin,-2.341659,2.732923
+NP_787028,KRT79,"keratin,-0.796596,1.675002
+NP_065867,KIF17,kinesin-like protein KIF17 isoform a,0.025969,2.611023
+NP_001716,BPI,bactericidal permeability-increasing protein precursor,-2.011168,0.127226
+NP_072174,TNS1,tensin-1,0.486628,3.060642
+NP_663780,SYNM,synemin isoform A,-1.052195,2.729253
+NP_056101,SYNM,synemin isoform B,-1.024438,2.674700
+NP_005550,LAMA1,laminin subunit alpha-1 precursor,-0.059479,2.491253
+NP_002854,PYGL,"glycogen phosphorylase,-0.175663,2.065304
+NP_001726,C5,complement C5 preproprotein,0.318467,3.393593
+NP_001155971,CAND2,cullin-associated NEDD8-dissociated protein 2 isoform 1,-0.210481,-2.344374
+NP_003881,NA,IgGFc-binding protein precursor,-0.884762,1.831463
+NP_001159477,EPB41,protein 4.1 isoform 1,-0.133207,3.843286
+NP_004428,EPB41,protein 4.1 isoform 6,-0.124053,3.823648
+NP_056667,LMO7,LIM domain only protein 7 isoform 2,0.027201,-2.066287
+NP_001186871,NA,protein dopey-1 isoform b,-1.295748,-5.100426
+NP_001258152,NA,obscurin isoform IC,-0.064853,2.675977
+NP_443075,NA,obscurin isoform a,-0.413032,2.528014
+NP_000292,PLG,plasminogen isoform 1 precursor,0.066722,3.216988
+NP_005568,LPA,apolipoprotein(a) precursor,0.197285,2.572362
+NP_000177,CFH,complement factor H isoform a precursor,0.493200,3.152001
+NP_002104,CFHR1,complement factor H-related protein 1 precursor,0.439641,2.581444
+NP_066303,CFHR3,complement factor H-related protein 3 isoform 1 precursor,0.318965,3.225099
+NP_005657,CFHR2,complement factor H-related protein 2 precursor,0.597392,2.920551
+NP_001188479,NA,complement factor H-related protein 4 isoform 1 precursor,0.335561,3.546199
+NP_003226,TG,thyroglobulin precursor,-5.136598,-0.974332
+NP_000087,CP,ceruloplasmin precursor,0.318613,3.778314
+NP_002334,LTF,lactotransferrin isoform 1 precursor,-3.647761,1.080059
+NP_001368,DYNC2H1,cytoplasmic dynein 2 heavy chain 1 isoform 1,-0.189877,3.415886
+NP_001073869,PLIN4,perilipin-4,-0.428858,4.707437
+NP_055948,MAPK8IP3,C-Jun-amino-terminal kinase-interacting protein 3 isoform 1,-0.048592,-2.282777
+NP_000289,PKLR,pyruvate kinase isozymes R/L isoform 1,-0.019261,3.706864
+NP_004902,PDIA4,protein disulfide-isomerase A4 precursor,-0.096662,-2.175388
+NP_031387,NID2,nidogen-2 precursor,0.532834,2.668211
+NP_002499,NID1,nidogen-1 precursor,0.541764,3.462574
+NP_003651,PPFIA3,liprin-alpha-3,-0.087804,-2.182539
+NP_002268,KRT31,"keratin,-0.999477,2.550734
+NP_853515,KRT27,"keratin,-2.353396,1.664386
+NP_002269,KRT32,"keratin,-0.947596,3.706576
+NP_000413,NA,"keratin,-2.214776,1.659725
+NP_000517,KRT14,"keratin,-1.624262,1.319085
+NP_005548,NA,"keratin,-1.747571,0.561186
+NP_056330,KRT23,"keratin,-1.846921,0.568340
+NP_001701,CFB,complement factor B preproprotein,0.417929,3.095656
+NP_597734,SYNPO2,synaptopodin-2 isoform a,0.030643,2.316010
+NP_001122405,SYNPO2,synaptopodin-2 isoform b,0.060637,2.326827
+NP_001839,COL6A1,collagen alpha-1(VI) chain precursor,0.629100,2.867749
+NP_001030128,SORBS1,sorbin and SH3 domain-containing protein 1 isoform 5,0.326726,3.247707
+NP_001030126,SORBS1,sorbin and SH3 domain-containing protein 1 isoform 3,0.329535,3.288747
+NP_001030129,SORBS1,sorbin and SH3 domain-containing protein 1 isoform 7,0.288683,2.998473
+NP_001139145,SORBS2,sorbin and SH3 domain-containing protein 2 isoform 6,-0.350125,1.665347
+NP_001139146,SORBS2,sorbin and SH3 domain-containing protein 2 isoform 7,-0.379020,1.765558
+NP_001188412,NA,c-myc promoter-binding protein-1 isoform MBP-1,0.245288,2.261383
+NP_001966,ENO2,gamma-enolase,0.234599,2.682668
+NP_001967,NA,beta-enolase isoform 1,0.284289,2.495013
+NP_001265440,NA,AP-3 complex subunit beta-2 isoform 3,0.021811,-2.099617
+NP_001129487,NA,annexin A2 isoform 2,0.364091,2.918997
+NP_002188,ACO1,cytoplasmic aconitate hydratase,0.427069,2.493026
+NP_002209,ITIH4,inter-alpha-trypsin inhibitor heavy chain H4 isoform 1 precursor,0.517105,3.642032
+NP_001159921,ITIH4,inter-alpha-trypsin inhibitor heavy chain H4 isoform 2 precursor,0.517630,3.697757
+NP_001257293,NA,cytosolic 10-formyltetrahydrofolate dehydrogenase isoform 1,0.612157,4.679080
+NP_002635,PIGR,polymeric immunoglobulin receptor precursor,-3.010988,5.185113
+NP_075384,KRI1,protein KRI1 homolog,-0.201343,-2.210435
+NP_001171730,NA,E3 ubiquitin-protein ligase UBR2 isoform 2,-0.091050,-2.268194
+NP_002448,MUC2,mucin-2 precursor,-4.918082,-1.071204
+NP_036579,STAG3,cohesin subunit SA-3,-1.094492,-3.714326
+NP_055242,CPNE7,copine-7 isoform b,-1.150202,-3.224361
+NP_000056,C6,complement component C6 precursor,0.440801,3.001018
+NP_000497,F2,prothrombin preproprotein,0.352562,3.664841
+NP_443195,TOP1MT,"DNA topoisomerase I,-0.099330,-2.207532
+NP_001810,CHGB,secretogranin-1 precursor,-5.721688,-2.287246
+NP_054878,SETD2,histone-lysine N-methyltransferase SETD2,0.202188,3.456813
+NP_000286,SERPINA1,alpha-1-antitrypsin precursor,0.523234,4.578651
+NP_001116105,CPS1,carbamoyl-phosphate synthase,-1.496618,0.595115
+NP_001191008,NA,ankyrin repeat and sterile alpha motif domain-containing protein 1B isoform j,-1.203024,-3.560637
+NP_002207,ITIH2,inter-alpha-trypsin inhibitor heavy chain H2 precursor,0.273121,2.910091
+NP_001743,CAT,catalase,-0.108645,3.552563
+NP_055416,EHD2,EH domain-containing protein 2,0.540259,4.614595
+NP_000695,ATP4A,potassium-transporting ATPase alpha chain 1,-0.855919,-3.317191
+NP_002678,PNN,pinin,-0.288209,-2.860462
+NP_001150,AOX1,aldehyde oxidase,0.712989,3.136543
+NP_000370,XDH,xanthine dehydrogenase/oxidase,-2.741215,-0.433781
+NP_001186346,NA,rho GTPase-activating protein 23,-0.477626,-3.624386
+NP_000030,APOA1,apolipoprotein A-I preproprotein,0.576189,4.561021
+NP_612808,BCL11B,B-cell lymphoma/leukemia 11B isoform 1,-0.014743,-2.151812
+NP_001124,AFM,afamin precursor,0.429741,4.736336
+NP_001036068,KDM5A,lysine-specific demethylase 5A,-0.003615,-2.112712
+NP_055885,ZC3H13,zinc finger CCCH domain-containing protein 13,-0.274599,-2.491391
+NP_002206,ITIH1,inter-alpha-trypsin inhibitor heavy chain H1 isoform a precursor,0.334937,2.348247
+NP_054908,ADD1,alpha-adducin isoform b,0.365234,2.375098
+NP_002044,GBP1,interferon-induced guanylate-binding protein 1,-0.515339,-2.656163
+NP_060754,GBP3,guanylate-binding protein 3,-0.615553,-2.896893
+NP_000578,C7,complement component C7 precursor,0.330360,3.121741
+NP_001191236,NA,vitamin D-binding protein isoform 3 precursor,0.577067,4.420474
+NP_000473,APOA4,apolipoprotein A-IV precursor,0.532900,4.059309
+NP_001986,ACSL1,long-chain-fatty-acid--CoA ligase 1,0.106859,2.989967
+NP_057318,ACSL5,long-chain-fatty-acid--CoA ligase 5 isoform a,-0.018459,2.354352
+NP_001009185,ACSL6,long-chain-fatty-acid--CoA ligase 6 isoform b,0.333713,3.106703
+NP_001840,COL6A2,collagen alpha-2(VI) chain isoform 2C2 precursor,0.649814,3.025947
+NP_478054,COL6A2,collagen alpha-2(VI) chain isoform 2C2a precursor,0.668589,3.187229
+NP_001631,APEH,acylamino-acid-releasing enzyme,0.285659,2.810150
+NP_006750,UGP2,UTP--glucose-1-phosphate uridylyltransferase isoform a,0.041105,2.053153
+NP_006201,NA,paternally-expressed gene 3 protein isoform 1,-0.560219,-3.002486
+NP_001724,NA,complement C1r subcomponent precursor,0.442724,2.445229
+NP_001245218,NA,selenium-binding protein 1 isoform 3,-0.042694,3.374660
+NP_000479,SERPINC1,antithrombin-III precursor,0.502308,4.044414
+NP_060141,FERMT1,fermitin family homolog 1,0.294660,2.599242
+NP_005348,LIPE,hormone-sensitive lipase,0.247512,4.504552
+NP_000604,HPX,hemopexin precursor,0.679016,4.328981
+NP_055674,RICH2,rho GTPase-activating protein 44,0.161070,-2.054123
+NP_001141,ANPEP,aminopeptidase N precursor,-0.491719,2.903062
+NP_000680,ALDH1A1,retinal dehydrogenase 1,0.422985,4.543281
+NP_000681,ALDH2,"aldehyde dehydrogenase,0.314329,2.913736
+NP_003879,ALDH1A2,retinal dehydrogenase 2 isoform 1,0.524234,3.629284
+NP_001193826,NA,retinal dehydrogenase 2 isoform 4,0.448803,3.338591
+NP_001005337,NA,plakophilin-1 isoform 1a,-2.609056,0.129742
+NP_000290,PKP1,plakophilin-1 isoform 1b,-2.595333,0.129742
+NP_004235,NA,scavenger receptor cysteine-rich type 1 protein M130 isoform a precursor,0.328832,2.404869
+NP_115754,NA,elongation factor 1-delta isoform 1,0.080459,-1.920897
+NP_001128471,FERMT2,fermitin family homolog 2 isoform 2,0.553779,2.795466
+NP_001076,SERPINA3,alpha-1-antichymotrypsin precursor,0.386794,4.071605
+NP_000027,NA,AMP deaminase 1 isoform 1,0.270882,-1.850219
+NP_000509,HBB,hemoglobin subunit beta,-1.473156,5.163693
+NP_000510,HBD,hemoglobin subunit delta,-1.552159,4.952367
+NP_000550,HBG1,hemoglobin subunit gamma-1,-2.481314,6.334954
+NP_000175,HBG2,hemoglobin subunit gamma-2,-2.566053,6.379532
+NP_005321,HBE1,hemoglobin subunit epsilon,-0.982249,7.320944
+NP_055465,ZNF432,zinc finger protein 432,-0.612530,-4.473072
+NP_660281,ZSCAN20,zinc finger and SCAN domain-containing protein 20,-0.213176,-2.770352
+XP_003960003,NA,PREDICTED: LOW QUALITY PROTEIN: zinc finger protein 100,-1.220828,-4.525944
+NP_057615,KLF3,Krueppel-like factor 3,-0.326560,1.719352
+NP_001201835,NA,zinc finger protein 48 isoform 1,-1.222142,-4.825261
+NP_000057,NA,complement component C8 beta chain isoform 1 preproprotein,0.367818,2.494290
+NP_647537,ATRN,attractin isoform 1 preproprotein,0.469761,3.810500
+NP_001138783,PLIN1,perilipin-1,-0.213110,5.284007
+NP_001001329,PRKCSH,glucosidase 2 subunit beta isoform 2 precursor,-0.047141,-2.239412
+NP_055790,MAST1,microtubule-associated serine/threonine-protein kinase 1,0.258429,2.362290
+NP_002429,MRC1,macrophage mannose receptor 1 precursor,0.522198,2.631920
+NP_001229291,NA,melanoma-associated antigen D4 isoform 3,-0.113571,-3.755108
+NP_002605,PDZK1,Na(+)/H(+) exchange regulatory cofactor NHE-RF3 isoform 1,-3.412892,-0.024894
+NP_001096078,COL6A6,collagen alpha-6(VI) chain precursor,0.196969,4.733115
+NP_001095886,KNG1,kininogen-1 isoform 1 precursor,0.496804,4.134058
+NP_000884,KNG1,kininogen-1 isoform 2 precursor,0.529260,4.325983
+NP_000161,GLDC,glycine dehydrogenase,-2.963486,-0.916671
+NP_001911,DCN,decorin isoform a preproprotein,0.381872,3.670462
+NP_000691,ANXA1,annexin A1,0.345480,3.055419
+NP_055542,MLL4,histone-lysine N-methyltransferase MLL4,0.239564,3.943137
+NP_001098714,PTPRM,receptor-type tyrosine-protein phosphatase mu isoform 1 precursor,0.333784,3.323797
+NP_443202,HSPA12B,heat shock 70 kDa protein 12B isoform 1,0.558108,3.182050
+NP_079291,HSPA12A,heat shock 70 kDa protein 12A,0.592763,3.910132
+NP_004550,YBX1,nuclease-sensitive element-binding protein 1,-0.367261,-2.381906
+NP_000549,NA,hemoglobin subunit alpha,-1.627508,5.141182
+NP_005134,NA,haptoglobin isoform 1 preproprotein,0.171222,2.364676
+NP_066275,NA,haptoglobin-related protein precursor,0.206040,2.557723
+NP_000883,KLKB1,plasma kallikrein preproprotein,0.448615,3.209204
+NP_000917,PGR,progesterone receptor isoform B,-2.064872,0.631155
+NP_000553,C8A,complement component C8 alpha chain precursor,0.313070,2.664082
+NP_005920,MFI2,melanotransferrin isoform 1 precursor,-0.519422,2.613168
+NP_036246,CASP14,caspase-14 precursor,-4.699632,-1.964402
+NP_001106177,SCIN,adseverin isoform 1,-0.469455,1.610389
+NP_000889,MAOB,amine oxidase,-0.581373,1.617002
+NP_000231,MAOA,amine oxidase,-1.039756,3.350638
+NP_997281,GBP7,guanylate-binding protein 7,-0.342959,-2.830422
+NP_002386,ME1,NADP-dependent malic enzyme,-0.140467,2.420591
+NP_004725,DCLK1,serine/threonine-protein kinase DCLK1 isoform 1,-0.896725,1.372997
+NP_001182345,NA,serine/threonine-protein kinase DCLK1 isoform 3,-1.296258,1.093794
+NP_001728,C9,complement component C9 precursor,0.545731,3.467060
+NP_004896,PRDX6,peroxiredoxin-6,0.338567,2.668260
+NP_001970,EPHX2,bifunctional epoxide hydrolase 2 isoform a,-0.849963,1.721251
+NP_001243412,NA,bifunctional epoxide hydrolase 2 isoform c,-0.880069,1.677802
+NP_005130,ANXA3,annexin A3,-1.384900,0.825773
+NP_078966,MUC16,mucin-16,-0.906817,2.534854
+XP_003960891,NA,PREDICTED: mucin-16-like,-1.339327,2.862149
+NP_001258662,NA,putative macrophage stimulating 1-like protein,0.301294,2.703955
+NP_000706,C4BPA,C4b-binding protein alpha chain precursor,0.233292,2.793632
+NP_001489,GCLC,glutamate--cysteine ligase catalytic subunit isoform a,0.071193,2.596791
+NP_001027392,STXBP1,syntaxin-binding protein 1 isoform b,0.295169,2.716649
+NP_005952,MUC6,mucin-6 precursor,-0.956945,1.540627
+NP_002197,ITGA7,integrin alpha-7 isoform 2 precursor,0.333268,3.935414
+NP_001138468,ITGA7,integrin alpha-7 isoform 1 precursor,0.317308,4.167165
+NP_004416,ECM1,extracellular matrix protein 1 isoform 1 precursor,0.272351,2.275719
+NP_055929,ANKLE2,ankyrin repeat and LEM domain-containing protein 2,-0.170090,1.951685
+NP_001069,VCAM1,vascular cell adhesion protein 1 isoform a precursor,-2.748821,-0.465217
+NP_001186763,NA,vascular cell adhesion protein 1 isoform c precursor,-2.768317,-0.511416
+NP_000110,EPB42,erythrocyte membrane protein band 4.2 isoform 1,-1.397273,4.838752
+NP_001020366,CES1,liver carboxylesterase 1 isoform a precursor,0.366332,5.364537
+NP_001257,CES1,liver carboxylesterase 1 isoform c precursor,0.352473,5.332972
+NP_001258137,NA,nebulin isoform 4,-0.196528,4.539629
+NP_001132,ALOX15B,arachidonate 15-lipoxygenase B isoform d,-2.945040,-0.767191
+NP_000195,CFI,complement factor I preproprotein,0.435120,3.518985
+NP_001185748,NA,APOBEC1 complementation factor isoform 4,-1.414220,1.769668
+NP_003053,SLIT3,slit homolog 3 protein isoform 2 precursor,0.251418,2.943516
+NP_060742,CASC1,cancer susceptibility candidate protein 1 isoform a,0.061302,-3.126170
+NP_000403,HRG,histidine-rich glycoprotein precursor,0.344924,3.838868
+NP_001073964,NA,trinucleotide repeat-containing gene 18 protein,-0.667995,1.966468
+NP_570720,CPNE4,copine-4,-1.217881,-3.374075
+NP_004985,MMP9,matrix metalloproteinase-9 preproprotein,-2.266319,0.760688
+NP_001176,NA,zinc-alpha-2-glycoprotein precursor,0.707815,5.305092
+NP_110420,FBXO38,F-box only protein 38 isoform a,-0.099096,2.832164
+NP_060681,RAVER2,ribonucleoprotein PTB-binding 2,-0.381240,1.671790
+NP_071745,ERAP2,endoplasmic reticulum aminopeptidase 2,-0.485096,1.853382
+NP_001137854,PLCL2,inactive phospholipase C-like protein 2 isoform 1,0.117922,3.052580
+NP_001862,CPB1,carboxypeptidase B preproprotein,-6.303350,-2.070490
+NP_000921,PLAT,tissue-type plasminogen activator isoform 1 preproprotein,-1.714073,2.064582
+NP_127509,PLAT,tissue-type plasminogen activator isoform 3 preproprotein,-1.822465,2.143121
+NP_001180414,NA,LIM and senescent cell antigen-like-containing domain protein 1 isoform a,0.420530,2.427388
+NP_001180412,NA,LIM and senescent cell antigen-like-containing domain protein 1 isoform d,0.446065,2.507118
+NP_001180413,NA,LIM and senescent cell antigen-like-containing domain protein 1 isoform e,0.446552,2.507118
+NP_004978,LIMS1,LIM and senescent cell antigen-like-containing domain protein 1 isoform b,0.446290,2.507118
+NP_000659,NA,alcohol dehydrogenase 1B,-0.049281,5.742525
+NP_000660,NA,alcohol dehydrogenase 1C,-0.377285,4.997786
+NP_000661,ADH4,alcohol dehydrogenase 4,0.370614,6.076604
+NP_000241,MPO,myeloperoxidase precursor,-1.865709,0.339986
+NP_036364,PTRF,polymerase I and transcript release factor,0.482857,4.559440
+NP_078849,C6ORF211,UPF0364 protein C6orf211,-2.314802,-0.039934
+NP_006357,CAP2,adenylyl cyclase-associated protein 2,-0.330785,1.671863
+NP_775733,PAPLN,papilin precursor,0.168456,2.886398
+NP_001822,CLU,clusterin preproprotein,-0.327654,2.593433
+NP_000780,ACE,angiotensin-converting enzyme isoform 1 precursor,0.312755,3.340087
+NP_001153171,FHL1,four and a half LIM domains protein 1 isoform 5,0.184119,4.261275
+NP_001153173,FHL1,four and a half LIM domains protein 1 isoform 3 precursor,0.184391,4.261275
+NP_001153174,FHL1,four and a half LIM domains protein 1 isoform 1,0.204075,4.354755
+NP_001153175,FHL1,four and a half LIM domains protein 1 isoform 4,0.239388,4.245215
+NP_001032238,ACOT1,acyl-coenzyme A thioesterase 1,-0.044561,2.496494
+NP_003864,NRP1,neuropilin-1 isoform a precursor,0.347601,2.468821
+NP_000022,ALAD,delta-aminolevulinic acid dehydratase,0.227358,3.165678
+NP_001814,CKB,creatine kinase B-type,-1.353964,2.281922
+NP_775752,C19ORF21,uncharacterized protein C19orf21,-1.536157,0.480710
+NP_000128,FAH,fumarylacetoacetase,-0.295008,1.977012
+NP_001344,AKR1C1,aldo-keto reductase family 1 member C1,-0.315515,4.384076
+NP_001240837,NA,aldo-keto reductase family 1 member C3 isoform 2,0.112042,4.380209
+NP_001345,AKR1C2,aldo-keto reductase family 1 member C2 isoform 1,-0.551519,4.652103
+XP_003960903,NA,PREDICTED: aldo-keto reductase family 1 member C2-like isoform 3,-0.422649,4.441908
+NP_001809,NA,aldo-keto reductase family 1 member C4,-0.182755,4.051565
+NP_001177836,NA,3-oxo-5-beta-steroid 4-dehydrogenase isoform 3,-0.007510,4.414115
+NP_004390,DDX11,probable ATP-dependent RNA helicase DDX11 isoform 2,-0.025904,-3.033137
+NP_002727,PRKAR2B,cAMP-dependent protein kinase type II-beta regulatory subunit,0.249979,2.492488
+NP_001608,ADD2,beta-adducin isoform a,0.010930,4.246212
+NP_817092,PPM1G,protein phosphatase 1G,-0.319363,-2.336359
+NP_056244,ABI3BP,target of Nesh-SH3 precursor,0.235366,3.527390
+NP_001985,F13B,coagulation factor XIII B chain precursor,0.627770,3.526471
+NP_001290,CNN1,calponin-1,-1.075700,1.697920
+NP_002716,PRELP,prolargin precursor,0.434744,4.386947
+NP_002427,MPP1,55 kDa erythrocyte membrane protein isoform 1,0.211982,3.334852
+NP_001159933,MPP1,55 kDa erythrocyte membrane protein isoform 3,0.212881,3.356800
+NP_005558,LGALS3BP,galectin-3-binding protein precursor,-0.307775,2.628037
+NP_068800,PGM5,phosphoglucomutase-like protein 5,-0.210469,3.165066
+NP_006008,PROM1,prominin-1 isoform 1 precursor,-4.420723,1.534538
+NP_001139322,PROM1,prominin-1 isoform 6 precursor,-4.418499,1.534538
+NP_000119,F11,coagulation factor XI precursor,0.449463,2.752339
+NP_006257,RALGDS,ral guanine nucleotide dissociation stimulator isoform 1,-0.225826,-3.259064
+NP_005267,GPD1,glycerol-3-phosphate dehydrogenase,-0.056609,5.395258
+NP_000304,PROS1,vitamin K-dependent protein S preproprotein,0.301043,3.465611
+NP_004531,NCAM2,neural cell adhesion molecule 2 precursor,-2.654200,0.119439
+NP_000662,NA,alcohol dehydrogenase class-3,0.287707,2.689470
+NP_060150,NA,asporin isoform 1 preproprotein,0.156444,2.348392
+NP_663722,APBB1,amyloid beta A4 precursor protein-binding family B member 1 isoform b,-0.879908,-7.914589
+NP_004306,ASAH1,acid ceramidase isoform b,-0.291393,1.936161
+NP_078881,ARHGAP10,rho GTPase-activating protein 10,0.078574,2.134092
+NP_004708,DGKI,diacylglycerol kinase iota,0.372977,3.307597
+NP_001029102,UBA52,ubiquitin-60S ribosomal protein L40 precursor,-0.270935,1.931701
+NP_056127,KIAA1109,uncharacterized protein KIAA1109,-0.178191,5.527169
+NP_001231001,NA,GTPase IMAP family member 6 isoform 2,0.114777,-3.533169
+NP_003186,TCEA2,transcription elongation factor A protein 2 isoform a,-0.159306,-2.381973
+NP_859063,KANK4,KN motif and ankyrin repeat domain-containing protein 4,0.327499,2.993038
+NP_057381,PCYOX1,prenylcysteine oxidase 1 precursor,0.126301,2.739034
+NP_001130005,DCAF8L2,DDB1- and CUL4-associated factor 8-like protein 2,0.164309,-2.838307
+NP_085046,NA,inter-alpha-trypsin inhibitor heavy chain H5 isoform 1 precursor,0.435328,3.887132
+NP_001001851,ITIH5,inter-alpha-trypsin inhibitor heavy chain H5 isoform 3 precursor,0.417239,3.758870
+NP_000333,SLC4A1,band 3 anion transport protein,-1.662769,4.058423
+NP_005800,PRDX2,peroxiredoxin-2,-0.008976,4.201561
+NP_055363,TMOD2,tropomodulin-2 isoform a,0.157953,2.568924
+NP_148935,OGN,mimecan preproprotein,0.075232,5.375597
+NP_775837,C22ORF30,protein PRR14L,-0.181137,3.709123
+NP_001876,CRYAB,alpha-crystallin B chain,-0.248863,3.813155
+NP_002630,SERPINB5,serpin B5,-2.286895,1.077873
+NP_060125,GIPC2,PDZ domain-containing protein GIPC2,0.470037,3.003298
+NP_000925,SERPINF2,alpha-2-antiplasmin isoform a precursor,0.419981,3.669127
+NP_065838,ZNF624,zinc finger protein 624,-0.910177,1.939736
+NP_872330,ZNF595,zinc finger protein 595,-0.099363,2.276035
+NP_612143,ZNF681,zinc finger protein 681,-0.809449,-4.525944
+NP_003406,ZNF268,zinc finger protein 268 isoform a,-0.787664,5.792491
+NP_008922,ZNF197,zinc finger protein 197 isoform 1,-1.499380,-3.610790
+NP_689668,ZSCAN29,zinc finger and SCAN domain-containing protein 29,-0.082580,2.387324
+NP_002336,LUM,lumican precursor,0.483464,4.218921
+NP_031377,MMRN1,multimerin-1 precursor,-0.082894,4.366770
+NP_000682,ALDH3A1,"aldehyde dehydrogenase,-0.221241,2.049389
+NP_000840,GSTM3,glutathione S-transferase Mu 3,-2.167580,-0.036014
+NP_443122,PGLYRP2,N-acetylmuramoyl-L-alanine amidase precursor,0.445712,3.571000
+NP_000033,APOH,beta-2-glycoprotein 1 precursor,0.591286,4.270248
+NP_036266,LMOD1,leiomodin-1,-0.178137,2.763354
+NP_000496,F12,coagulation factor XII precursor,0.469196,3.480348
+NP_001095838,C14ORF159,"UPF0317 protein C14orf159,-0.532644,1.521117
+NP_006491,MCAM,cell surface glycoprotein MUC18 precursor,0.183749,3.397850
+NP_001185867,NA,dystrobrevin alpha isoform 10,-0.092501,1.961769
+NP_001185871,NA,dystrobrevin alpha isoform 14,-0.027218,2.051273
+NP_075461,NA,voltage-dependent P/Q-type calcium channel subunit alpha-1A isoform 2,-0.570758,4.700388
+XP_003960990,NA,PREDICTED: voltage-dependent N-type calcium channel subunit alpha-1B-like,0.213467,2.669205
+NP_671704,HS6ST2,heparan-sulfate 6-O-sulfotransferase 2 isoform S,0.061149,4.700388
+NP_001180418,NA,selenocysteine insertion sequence-binding protein 2-like isoform 1,-0.044576,2.742242
+NP_000176,SERPIND1,heparin cofactor 2 precursor,0.418631,2.457241
+NP_001153651,NAT1,arylamine N-acetyltransferase 1 isoform a,-1.696497,2.295772
+NP_001188264,NA,GC-rich sequence DNA-binding factor 2 isoform 3,-0.208067,-3.071285
+NP_443188,ACSM1,"acyl-coenzyme A synthetase ACSM1,-4.044950,-1.040150
+NP_000713,CACNA2D1,voltage-dependent calcium channel subunit alpha-2/delta-1 precursor,0.372084,2.390574
+NP_002606,SERPINF1,pigment epithelium-derived factor precursor,0.424957,2.438621
+NP_003725,AOC3,membrane primary amine oxidase isoform 1,0.104680,3.454625
+NP_033720,AOC2,retina-specific copper amine oxidase isoform b precursor,-0.056955,2.989721
+NP_002175,IL6ST,interleukin-6 receptor subunit beta isoform 1 precursor,-0.522729,1.657647
+NP_064575,OLFML3,olfactomedin-like protein 3 precursor,0.244797,2.477385
+NP_570602,A1BG,alpha-1B-glycoprotein precursor,0.507842,4.059680
+NP_006637,WASF3,wiskott-Aldrich syndrome protein family member 3,0.128972,3.711931
+NP_036519,PADI4,protein-arginine deiminase type-4,-2.872048,-0.552872
+NP_057317,PADI3,protein-arginine deiminase type-3,-2.928974,-0.552872
+NP_037390,PYCARD,apoptosis-associated speck-like protein containing a CARD isoform a,-0.519281,-2.594301
+NP_660183,PYCARD,apoptosis-associated speck-like protein containing a CARD isoform b,-0.441563,-2.910669
+NP_006222,POLE,DNA polymerase epsilon catalytic subunit A,-0.515001,1.539991
+NP_006308,BASP1,brain acid soluble protein 1,0.247526,-2.203418
+NP_001731,CALB2,calretinin isoform 1,-0.699249,3.267564
+NP_004920,CALB1,calbindin,-1.027830,4.110162
+NP_689588,KLHDC7A,kelch domain-containing protein 7A,-0.853092,2.302875
+NP_000892,NR3C2,mineralocorticoid receptor isoform 1,-0.759327,2.797703
+NP_006409,OLFM4,olfactomedin-4 precursor,-1.175511,2.657841
+NP_001070254,QSER1,glutamine and serine-rich protein 1,-0.041953,-2.146285
+NP_065751,PPM1H,protein phosphatase 1H,-0.587460,1.534456
+NP_001875,HAPLN1,hyaluronan and proteoglycan link protein 1 precursor,0.318475,-2.150406
+NP_075378,HAPLN4,hyaluronan and proteoglycan link protein 4 precursor,1.069777,-1.025053
+NP_006868,GMPR,GMP reductase 1,-0.582145,3.147001
+NP_057531,MPP6,MAGUK p55 subfamily member 6,0.212185,2.282464
+NP_001265299,NA,MAGUK p55 subfamily member 2 isoform 1,-0.311110,1.928005
+NP_963293,NDRG2,protein NDRG2 isoform a,-0.812659,1.331197
+NP_963294,NDRG2,protein NDRG2 isoform b,-0.788118,1.414495
+NP_001116540,NA,peptidyl-prolyl cis-trans isomerase A-like 4G,-0.992538,-3.311940
+NP_055985,SULF1,extracellular sulfatase Sulf-1 precursor,-0.681483,-3.170219
+NP_001155313,SULF2,extracellular sulfatase Sulf-2 isoform a precursor,-0.439982,-2.904427
+NP_663318,APOL1,apolipoprotein L1 isoform b precursor,0.152907,3.362402
+NP_653254,NACC2,nucleus accumbens-associated protein 2,-0.741298,2.185871
+NP_000058,CA2,carbonic anhydrase 2,-0.433711,4.743403
+NP_001748,CBR1,carbonyl reductase,-0.314299,1.784047
+NP_006741,SNTB2,beta-2-syntrophin,0.497670,2.543032
+NP_001012339,DNAJC21,dnaJ homolog subfamily C member 21 isoform 2,-0.025947,-2.112434
+NP_919259,DNAJC21,dnaJ homolog subfamily C member 21 isoform 1,-0.015703,-2.112434
+NP_001338,DGKQ,diacylglycerol kinase theta,-0.169039,-2.735438
+NP_001229825,NA,DEP domain-containing protein 5 isoform 4,-0.358696,1.938189
+NP_001229826,NA,DEP domain-containing protein 5 isoform 5,-0.353877,1.938189
+NP_079113,ATP8B4,probable phospholipid-transporting ATPase IM,-0.146659,-2.205100
+NP_000552,GSTM1,glutathione S-transferase Mu 1 isoform 1,-1.697915,1.890935
+NP_000839,GSTM2,glutathione S-transferase Mu 2 isoform 1,-0.897034,3.063757
+NP_000841,GSTM4,glutathione S-transferase Mu 4 isoform 1,-1.504660,1.435518
+NP_000842,GSTM5,glutathione S-transferase Mu 5,-1.901527,0.952349
+NP_666533,GSTM1,glutathione S-transferase Mu 1 isoform 2,-1.714003,1.816007
+NP_000053,SERPING1,plasma protease C1 inhibitor precursor,0.704590,4.150589
+NP_652759,RGS3,regulator of G-protein signaling 3 isoform 6,0.349838,-1.843266
+NP_652760,RGS3,regulator of G-protein signaling 3 isoform 5,0.390916,-1.843266
+NP_008838,PYCR1,"pyrroline-5-carboxylate reductase 1,-0.480807,-2.812172
+NP_722546,PYCR1,"pyrroline-5-carboxylate reductase 1,-0.479302,-2.676659
+NP_699204,AGXT2L2,5-phosphohydroxy-L-lysine phospho-lyase isoform 2,0.104932,2.779154
+NP_149974,C20ORF114,BPI fold-containing family B member 1 precursor,-5.341151,-0.829455
+NP_060275,RASIP1,ras-interacting protein 1,0.219766,2.311608
+NP_065789,KIDINS220,kinase D-interacting substrate of 220 kDa,0.096733,2.633695
+NP_005724,KIF20A,kinesin-like protein KIF20A,0.146543,-2.054541
+NP_872407,NA,pleckstrin homology domain-containing family S member 1 isoform 1,-1.335031,0.724591
+NP_059118,CALML5,calmodulin-like protein 5,-4.017422,-1.933776
+NP_005300,GPT,alanine aminotransferase 1,0.159668,3.504302
+NP_005785,DHRS2,dehydrogenase/reductase SDR family member 2 isoform 2,-3.778171,-1.770892
+NP_878912,DHRS2,dehydrogenase/reductase SDR family member 2 isoform 1,-3.866812,-1.818668
+NP_001139478,IGFALS,insulin-like growth factor-binding protein complex acid labile subunit isoform 1 precursor,0.467605,2.814579
+NP_000121,F5,coagulation factor V precursor,-0.089589,3.139292
+NP_001124335,ENPP2,ectonucleotide pyrophosphatase/phosphodiesterase family member 2 isoform 3 preproprotein,0.567603,3.047890
+NP_006200,ENPP2,ectonucleotide pyrophosphatase/phosphodiesterase family member 2 isoform 1 preproprotein,0.583627,3.092181
+NP_115717,DDI2,protein DDI1 homolog 2,-0.190285,2.655569
+NP_000910,PAM,peptidyl-glycine alpha-amidating monooxygenase isoform a preproprotein,0.492185,2.838643
+NP_004648,SDPR,serum deprivation-response protein,0.113839,3.686679
+NP_002490,NEO1,neogenin isoform 1 precursor,-0.180612,2.045609
+NP_005255,GFRA1,GDNF family receptor alpha-1 isoform a preproprotein,-2.719154,-0.025306
+NP_665736,GFRA1,GDNF family receptor alpha-1 isoform b preproprotein,-2.663133,0.027106
+NP_002558,PEBP1,phosphatidylethanolamine-binding protein 1 preproprotein,-0.030884,2.277732
+NP_002955,S100A8,protein S100-A8,-4.050605,-0.820089
+NP_075047,LPIN3,phosphatidate phosphatase LPIN3,-0.056988,2.174802
+NP_002347,MARCKS,myristoylated alanine-rich C-kinase substrate,-0.400748,-2.659368
+NP_057071,HEBP1,heme-binding protein 1,-1.913113,1.201619
+NP_006636,STARD10,PCTP-like protein,-1.021650,2.267037
+NP_001008661,CCBL2,kynurenine--oxoglutarate transaminase 3 isoform 1,0.308063,2.424231
+NP_000704,BLVRB,flavin reductase (NADPH),0.010629,4.264988
+NP_612409,NOM1,nucleolar MIF4G domain-containing protein 1,-0.942111,-4.446642
+NP_001121181,PRG4,proteoglycan 4 isoform C precursor,0.169282,2.224347
+NP_002956,S100A9,protein S100-A9,-4.650540,-1.726933
+NP_003307,NA,E3 ubiquitin-protein ligase TTC3,-0.827628,-4.237002
+NP_006206,SERPINA4,kallistatin precursor,0.395016,3.224447
+NP_001729,CA1,carbonic anhydrase 1,-1.710366,4.972134
+NP_001280,CLIC2,chloride intracellular channel protein 2,0.372295,2.599349
+NP_036557,RSU1,ras suppressor protein 1 isoform 1,0.602157,2.837673
+NP_006218,PLTP,phospholipid transfer protein isoform a precursor,0.212644,2.688495
+NP_001122401,ROBO2,roundabout homolog 2 isoform ROBO2a,-0.228346,-3.001310
+NP_036434,LPHN2,latrophilin-2 precursor,-0.370769,2.196903
+NP_940876,OLFML1,olfactomedin-like protein 1 precursor,0.621640,3.751603
+NP_008929,SCGN,secretagogin,-5.058452,-1.169640
+NP_001138612,NA,putative uncharacterized protein CXorf49,-4.487492,-1.948700
+XP_003960877,NA,PREDICTED: uncharacterized protein CXorf49-like,-3.967648,0.000000
+NP_000008,ACADS,"short-chain specific acyl-CoA dehydrogenase,-0.118069,3.012293
+NP_003291,TRAF3,TNF receptor-associated factor 3 isoform 1,-0.128762,2.256110
+NP_006320,FBLN5,fibulin-5 precursor,0.399399,2.431541
+NP_002517,NT5E,5'-nucleotidase isoform 1 preproprotein,0.494958,3.450054
+NP_005917,MFAP1,microfibrillar-associated protein 1,-0.234579,-2.837948
+NP_085137,ZNF436,zinc finger protein 436,-0.816891,-3.709990
+NP_001076804,ZFP112,zinc finger protein 112 isoform 1,-0.759742,-4.525944
+NP_958357,ZNF644,zinc finger protein 644 isoform 1,-0.046077,3.229498
+NP_005885,CD5L,CD5 antigen-like precursor,0.023807,3.435197
+NP_000020,AGT,angiotensinogen preproprotein,0.509921,3.810549
+NP_079017,ZNF408,zinc finger protein 408 isoform 1,0.143258,3.863085
+NP_000894,NQO1,NAD(P)H dehydrogenase,-1.614442,1.144247
+NP_963868,SLC4A3,anion exchange protein 3 isoform 2,-0.576052,2.770716
+NP_055439,S100A6,protein S100-A6,0.109305,2.384609
+NP_003529,NA,histone H4,0.320187,2.374487
+NP_000217,KRT9,"keratin,-0.291167,2.756059
+NP_000181,HMBS,porphobilinogen deaminase isoform 1,-0.092220,2.248525
+NP_006392,NA,acidic leucine-rich nuclear phosphoprotein 32 family member B,-0.177440,-2.229920
+NP_036535,ANP32C,acidic leucine-rich nuclear phosphoprotein 32 family member C,-0.233343,-2.684810
+NP_690870,C22ORF25,transport and Golgi organization 2 homolog,0.401880,3.609148
+NP_113649,CRISPLD1,cysteine-rich secretory protein LCCL domain-containing 1 precursor,-1.527172,1.410676
+NP_000467,AK1,adenylate kinase isoenzyme 1,0.108900,2.981323
+NP_777283,AK5,adenylate kinase isoenzyme 5 isoform 1,-0.050430,3.051909
+NP_002506,NOVA1,RNA-binding protein Nova-1 isoform 1,-1.488890,1.408079
+NP_001153803,NFASC,neurofascin isoform 2 precursor,-0.306790,1.695337
+NP_001186016,NA,cytosolic 5'-nucleotidase 1B isoform 4,0.267820,4.365634
+NP_689794,MOSPD2,motile sperm domain-containing protein 2 isoform 1,-0.273147,-2.614210
+NP_219499,CTTNBP2,cortactin-binding protein 2,-0.520471,1.657424
+NP_001002,NA,40S ribosomal protein S7,-0.182380,-2.415006
+NP_001001669,FLJ41603,rho guanine nucleotide exchange factor 37,-0.379564,1.843338
+NP_071447,TINAGL1,tubulointerstitial nephritis antigen-like isoform 1 precursor,0.134470,3.300949
+NP_000598,ORM1,alpha-1-acid glycoprotein 1 precursor,0.534226,4.399098
+NP_000599,ORM2,alpha-1-acid glycoprotein 2 precursor,0.748242,4.321067
+NP_001008219,NA,alpha-amylase 1 precursor,-2.104729,1.329139
+NP_066188,AMY2B,alpha-amylase 2B precursor,-1.878041,1.480489
+NP_078969,ECHDC3,"enoyl-CoA hydratase domain-containing protein 3,-0.220211,2.003885
+NP_061905,ADAMTSL4,ADAMTS-like protein 4 isoform 1 precursor,-0.052980,2.310849
+NP_002570,PALM,paralemmin-1 isoform 1,-0.253555,3.121088
+NP_612364,SCRN2,secernin-2 isoform 1,0.179291,2.407244
+NP_001164221,SRPX,sushi repeat-containing protein SRPX isoform 2 precursor,0.034598,2.814855
+NP_006298,SRPX,sushi repeat-containing protein SRPX isoform 1 precursor,0.017592,2.814855
+NP_000345,SERPINA7,thyroxine-binding globulin precursor,0.430153,4.491093
+NP_057256,UBAC1,ubiquitin-associated domain-containing protein 1,0.198192,3.391332
+NP_003666,PRPF18,pre-mRNA-splicing factor 18,0.071550,-2.495808
+NP_001624,AMBP,protein AMBP preproprotein,0.467706,3.451362
+NP_001494,GPLD1,phosphatidylinositol-glycan-specific phospholipase D precursor,0.410606,3.663300
+NP_001002030,ECHDC1,ethylmalonyl-CoA decarboxylase isoform 1,0.191651,2.784383
+NP_001265432,NA,dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A isoform a,-0.602092,-3.695057
+NP_570899,AMOTL1,angiomotin-like protein 1,-0.348440,2.409801
+NP_116038,CNDP1,beta-Ala-His dipeptidase precursor,0.480810,3.596970
+NP_001978,ETV6,transcription factor ETV6,-0.326850,-2.783730
+NP_002845,PVALB,parvalbumin alpha,-2.382391,2.661673
+NP_001837,COL4A2,collagen alpha-2(IV) chain preproprotein,0.182542,2.716154
+NP_001186512,NA,protein kinase C and casein kinase substrate in neurons protein 1,-0.881979,-4.254822
+NP_060106,TRPM4,transient receptor potential cation channel subfamily M member 4 isoform 1,-0.675287,-2.706205
+NP_828847,CYP4X1,cytochrome P450 4X1,-0.424336,-2.675048
+NP_009214,MGLL,monoglyceride lipase isoform 1,0.458730,4.149430
+NP_000095,CYP1B1,cytochrome P450 1B1,0.290879,-2.618006
+NP_001184252,NA,HIRA-interacting protein 3 isoform 2,-0.433334,-2.867129
+NP_002834,PTPRJ,receptor-type tyrosine-protein phosphatase eta isoform 1 precursor,0.018186,2.616779
+NP_001638,APOD,apolipoprotein D precursor,-0.340063,5.199638
+NP_004263,HOMER1,homer protein homolog 1 isoform 1,-0.185253,-3.848338
+NP_001433,FABP4,"fatty acid-binding protein,0.038662,4.998650
+NP_002668,PMP2,myelin P2 protein,-0.234466,5.942545
+NP_003002,SET,protein SET isoform 2,-0.290244,-2.584165
+NP_003266,TMOD1,tropomodulin-1,0.116009,4.234714
+NP_037485,TMOD4,tropomodulin-4,0.149302,4.341216
+NP_055682,KBTBD11,kelch repeat and BTB domain-containing protein 11,0.222890,3.337144
+NP_001519,HGFAC,hepatocyte growth factor activator preproprotein,0.473408,3.390339
+NP_115575,ARID5B,AT-rich interactive domain-containing protein 5B isoform 1,0.440263,2.697448
+NP_113669,SLC25A18,mitochondrial glutamate carrier 2,-0.075513,2.327732
+NP_003732,CHRD,chordin precursor,-0.026675,-2.133487
+NP_000024,ABCD1,ATP-binding cassette sub-family D member 1,-0.446048,-2.678126
+NP_005155,ABCD2,ATP-binding cassette sub-family D member 2,-0.292595,6.530123
+NP_001046,SULT1A1,sulfotransferase 1A1 isoform a,-0.740996,2.018288
+XP_003960686,NA,PREDICTED: sulfotransferase 1A3/1A4-like isoform 1,-0.180171,3.089689
+NP_001045,SULT1A2,sulfotransferase 1A2,-0.720860,1.855967
+NP_803880,SULT1A1,sulfotransferase 1A1 isoform b,-0.546433,1.919010
+NP_006399,AGR2,anterior gradient protein 2 homolog precursor,-2.166267,0.560831
+NP_789783,AGR3,anterior gradient protein 3 homolog precursor,-1.340018,1.198897
+NP_003381,WEE1,wee1-like protein kinase isoform 1,-0.274531,2.656962
+NP_001613,AHSG,alpha-2-HS-glycoprotein preproprotein,0.424777,4.849143
+NP_085135,ASXL3,putative Polycomb group protein ASXL3,-1.231587,2.095157
+NP_060528,CRTAC1,cartilage acidic protein 1 isoform A precursor,0.212105,3.859268
+NP_056509,ZNF777,zinc finger protein 777,-0.519480,-2.719226
+NP_741996,SALL3,sal-like protein 3,-0.438552,-2.719226
+NP_002959,SALL1,sal-like protein 1 isoform a,-0.347386,-2.719226
+NP_001004309,ZNF774,zinc finger protein 774,-0.274072,-2.317515
+NP_659484,OSCP1,protein OSCP1 isoform 1,-0.560904,1.675774
+NP_996668,OSCP1,protein OSCP1 isoform 2,-0.755025,2.127117
+NP_060340,TMEM132A,transmembrane protein 132A isoform a precursor,-0.481067,1.903028
+NP_001027536,NA,gamma-glutamyltranspeptidase 1 precursor,-0.404482,3.364006
+XP_003846351,NA,PREDICTED: gamma-glutamyltranspeptidase 2,-0.459954,3.352758
+NP_877439,MACC1,metastasis-associated in colon cancer protein 1,-0.354581,1.847738
+NP_071412,PBLD,phenazine biosynthesis-like domain-containing protein isoform a,-0.254517,1.968702
+NP_001028255,PBLD,phenazine biosynthesis-like domain-containing protein isoform b,-0.301917,2.202516
+NP_116186,AIFM2,apoptosis-inducing factor 2,0.406006,3.723596
+NP_789794,BBS7,Bardet-Biedl syndrome 7 protein isoform a,-0.106206,2.559732
+NP_057270,SERPINA10,protein Z-dependent protease inhibitor precursor,0.372238,3.442986
+NP_001165081,LDB3,LIM domain-binding protein 3 isoform 5,-0.821513,3.242499
+NP_009009,LDB3,LIM domain-binding protein 3 isoform 1,-0.809137,3.242499
+NP_001073583,LDB3,LIM domain-binding protein 3 isoform 2,-0.766743,3.242499
+NP_001165082,LDB3,LIM domain-binding protein 3 isoform 6,0.262529,3.273370
+NP_078925,BBS1,Bardet-Biedl syndrome 1 protein,0.046008,2.475949
+NP_001231634,NA,cysteine sulfinic acid decarboxylase isoform 2,-0.252185,3.159944
+NP_116098,PYROXD2,pyridine nucleotide-disulfide oxidoreductase domain-containing protein 2,-0.506968,3.340174
+NP_000311,QDPR,dihydropteridine reductase,-0.577423,2.368215
+NP_001160163,TTK,dual specificity protein kinase TTK isoform 2,-0.044484,2.659995
+NP_000137,NA,ferritin light chain,-0.141286,2.438325
+NP_056023,ANKRD12,ankyrin repeat domain-containing protein 12 isoform 1,-0.444022,1.847545
+NP_077078,NA,tryptase beta-2 precursor,-1.138929,2.058237
+NP_003285,NA,tryptase alpha/beta-1 precursor,-1.041669,2.122552
+NP_001002841,MYL4,myosin light chain 4,0.349384,3.365883
+NP_444251,NA,E3 ubiquitin-protein ligase ZFP91 isoform 1,0.119611,-2.457320
+NP_004681,LATS1,serine/threonine-protein kinase LATS1 isoform 1,-0.085991,2.531063
+NP_001257448,NA,serine/threonine-protein kinase LATS1 isoform 2,-0.348596,2.531063
+NP_006160,NNMT,nicotinamide N-methyltransferase,0.300581,-1.893747
+NP_009030,ACP1,low molecular weight phosphotyrosine protein phosphatase isoform b,-0.033575,2.149728
+NP_001786,CDH5,cadherin-5 preproprotein,0.432171,3.169700
+NP_001137498,NDOR1,NADPH-dependent diflavin oxidoreductase 1 isoform a,-0.011100,3.361281
+NP_000495,F10,coagulation factor X preproprotein,0.156771,3.043775
+NP_004674,RGN,regucalcin,0.477459,3.940069
+NP_000362,TTR,transthyretin precursor,0.495461,4.017386
+NP_001919,CFD,complement factor D preproprotein,-0.252326,2.925200
+NP_001863,NA,carboxypeptidase B2 isoform 1 preproprotein,0.387953,2.624797
+NP_694999,MAMDC2,MAM domain-containing protein 2 precursor,-0.247000,2.025994
+NP_056117,HAUS5,HAUS augmin-like complex subunit 5,-0.110135,2.138710
+NP_116181,ZBTB45,zinc finger and BTB domain-containing protein 45,0.075527,2.929220
+NP_000469,ALPL,"alkaline phosphatase,-0.066098,3.334337
+NP_444284,CCND1,G1/S-specific cyclin-D1,-0.552273,1.468304
+NP_003077,SNAPC4,snRNA-activating protein complex subunit 4,-1.190693,-5.326740
+NP_660331,ZNF296,zinc finger protein 296,-0.081983,3.940745
+NP_665877,GSTZ1,maleylacetoacetate isomerase isoform 1,-0.489792,2.279752
+NP_000895,NQO2,ribosyldihydronicotinamide dehydrogenase,0.199362,3.219610
+NP_001164432,IGSF1,immunoglobulin superfamily member 1 isoform 3 precursor,-2.394224,0.880970
+NP_002677,PNMT,phenylethanolamine N-methyltransferase,-5.666319,-1.953353
+NP_002843,PTX3,pentraxin-related protein PTX3 precursor,-1.783176,0.950236
+NP_004956,HMGN1,non-histone chromosomal protein HMG-14,-1.169546,-3.633277
+NP_001243404,NA,testicular haploid expressed gene protein-like,-0.483868,-3.207511
+NP_001031,SHBG,sex hormone-binding globulin isoform 1 precursor,0.309355,3.836461
+NP_115814,L3MBTL3,lethal(3)malignant brain tumor-like protein 3 isoform a,0.053858,-2.128852
+NP_055760,ABLIM3,actin-binding LIM protein 3,-0.022809,2.907563
+NP_002643,PIP,prolactin-inducible protein precursor,-4.989091,5.357342
+NP_700356,LRIG3,leucine-rich repeats and immunoglobulin-like domains protein 3 isoform 2 precursor,0.164779,-3.166496
+NP_001094346,PHYHD1,phytanoyl-CoA dioxygenase domain-containing protein 1 isoform a,-0.882612,1.272545
+NP_777593,PHYHD1,phytanoyl-CoA dioxygenase domain-containing protein 1 isoform b,-1.003652,1.387351
+NP_000437,PON1,serum paraoxonase/arylesterase 1 precursor,0.400699,4.039790
+NP_000931,PON3,serum paraoxonase/lactonase 3,0.413781,3.062285
+NP_057090,ABHD5,1-acylglycerol-3-phosphate O-acyltransferase ABHD5,0.566010,3.553363
+NP_002577,PBX2,pre-B-cell leukemia transcription factor 2,0.161991,2.203250
+NP_000615,SERPINA5,plasma serine protease inhibitor preproprotein,0.374349,2.872666
+NP_001902,CTSG,cathepsin G preproprotein,-0.934529,2.386397
+NP_005655,MKRN3,probable E3 ubiquitin-protein ligase makorin-3,-0.261571,4.436835
+NP_001435,NA,"fatty acid-binding protein,-0.192239,2.090142
+NP_001265576,NA,zinc finger and BTB domain-containing protein 48,-1.284110,-3.656210
+NP_002353,MAGEA4,melanoma-associated antigen 4,-3.232161,-0.959547
+NP_079130,PYROXD1,pyridine nucleotide-disulfide oxidoreductase domain-containing protein 1,-0.384524,-3.494701
+NP_001030024,SMOC1,SPARC-related modular calcium-binding protein 1 isoform 1 precursor,-2.199385,0.022935
+NP_055567,NA,signal peptidase complex subunit 2,-0.572270,-3.323874
+NP_003078,SNCG,gamma-synuclein,-0.933204,2.624402
+NP_003076,SNCB,beta-synuclein,-1.097800,2.737897
+NP_851996,NCAM1,neural cell adhesion molecule 1 isoform 2 precursor,0.473900,2.628937
+NP_000606,NCAM1,neural cell adhesion molecule 1 isoform 1 precursor,0.498027,3.067078
+NP_073583,MOSC1,"MOSC domain-containing protein 1,0.228813,3.162441
+NP_036311,FBXO7,F-box only protein 7 isoform 1,-0.119928,2.277090
+NP_061845,GDAP1,ganglioside-induced differentiation-associated protein 1 isoform a,-0.946435,1.277018
+NP_060023,INO80,DNA helicase INO80,-0.352472,3.334869
+NP_940887,TPRG1,tumor protein p63-regulated gene 1 protein,-3.449600,3.398003
+NP_001870,MASP1,mannan-binding lectin serine protease 1 isoform 1 precursor,0.088347,3.174135
+NP_624302,MASP1,mannan-binding lectin serine protease 1 isoform 2 precursor,0.173558,3.097403
+NP_001027019,MASP1,mannan-binding lectin serine protease 1 isoform 3 precursor,0.105268,3.097403
+NP_001229344,NA,WD repeat-containing protein 20 isoform 5,0.478725,3.002023
+NP_001138501,ANKRD30B,ankyrin repeat domain-containing protein 30B,-0.502785,-2.634654
+NP_060379,RMND1,required for meiotic nuclear division protein 1 homolog isoform 1,-2.294174,0.051800
+NP_056020,ATP11A,probable phospholipid-transporting ATPase IH isoform a,-1.050774,1.995976
+NP_000046,BCHE,cholinesterase precursor,0.284525,3.896057
+NP_689873,FAM76A,protein FAM76A isoform 3,0.056844,2.536735
+NP_001137384,FAM76A,protein FAM76A isoform 1,0.108619,2.536735
+NP_004090,STOM,erythrocyte band 7 integral membrane protein isoform a,-0.178672,3.225990
+NP_659477,PRKCDBP,protein kinase C delta-binding protein,0.464280,3.102990
+NP_443204,LRG1,leucine-rich alpha-2-glycoprotein precursor,0.500500,4.470354
+NP_077284,DHRS11,dehydrogenase/reductase SDR family member 11 precursor,-1.319279,2.288686
+NP_056950,PRDM2,PR domain zinc finger protein 2 isoform b,-0.114560,-4.391695
+NP_036363,PRDM2,PR domain zinc finger protein 2 isoform a,-0.131912,-4.391695
+NP_775099,ABCA12,ATP-binding cassette sub-family A member 12 isoform a,-0.250058,1.775526
+NP_036381,NA,rho-related GTP-binding protein RhoQ precursor,-0.014243,-2.452440
+NP_065714,RHOJ,rho-related GTP-binding protein RhoJ precursor,0.057122,-2.452440
+NP_076943,C19ORF43,uncharacterized protein C19orf43,-0.414914,-2.686884
+NP_057152,FIS1,mitochondrial fission 1 protein,-0.314797,2.317135
+NP_001188292,NA,high mobility group nucleosome-binding domain-containing protein 3 isoform HMGN3d,-1.562853,-4.660506
+NP_004233,HMGN3,high mobility group nucleosome-binding domain-containing protein 3 isoform HMGN3a,-1.289183,-4.334566
+NP_001188291,NA,high mobility group nucleosome-binding domain-containing protein 3 isoform HMGN3c,-1.588806,-4.650684
+NP_001138467,CCDC85C,coiled-coil domain-containing protein 85C,-0.197401,-3.124538
+NP_001185624,NA,microfibril-associated glycoprotein 4 isoform 1 precursor,-0.538778,1.943136
+NP_001161212,SMYD3,histone-lysine N-methyltransferase SMYD3 isoform 1,-0.456236,-2.500184
+NP_001186750,NA,magnesium-dependent phosphatase 1 isoform 2,0.173868,2.415718
+NP_003456,CHIT1,chitotriosidase-1 isoform 1 precursor,-0.329826,3.600349
+NP_060338,TTC12,tetratricopeptide repeat protein 12,-0.235831,2.609772
+NP_002052,GCLM,glutamate--cysteine ligase regulatory subunit,-0.106788,1.914777
+NP_005172,CA3,carbonic anhydrase 3,-0.039837,4.597620
+NP_001108224,CD55,complement decay-accelerating factor isoform 2 precursor,-0.387274,1.900091
+NP_005555,LCN2,neutrophil gelatinase-associated lipocalin precursor,-3.782521,0.257357
+NP_000845,NA,glutathione S-transferase theta-2,-1.516126,2.566160
+NP_003977,BBOX1,gamma-butyrobetaine dioxygenase,-0.266826,2.156613
+NP_065228,FHL5,four and a half LIM domains protein 5,0.239102,2.843683
+NP_001073982,CPN2,carboxypeptidase N subunit 2 precursor,0.469266,3.611849
+NP_001107609,EPB49,dematin isoform 2,-0.435069,4.442218
+NP_001107607,EPB49,dematin isoform 1,-0.364353,3.850789
+NP_056494,TRUB2,probable tRNA pseudouridine synthase 2,-0.039411,2.196131
+XP_003960218,NA,PREDICTED: thioredoxin-interacting protein-like isoform 1,-0.539596,2.272771
+NP_277037,TRERF1,transcriptional-regulating factor 1,-0.137195,1.968419
+NP_006735,RBP4,retinol-binding protein 4 precursor,0.873182,3.581376
+NP_003003,SFRP1,secreted frizzled-related protein 1 precursor,-0.372048,4.025445
+NP_694946,FBLN7,fibulin-7 isoform 1 precursor,0.439355,4.638686
+NP_000851,HPGD,15-hydroxyprostaglandin dehydrogenase,-1.128291,1.282472
+NP_055565,DLGAP5,disks large-associated protein 5 isoform a,0.022786,-2.512540
+NP_775965,ATP11C,probable phospholipid-transporting ATPase IG isoform a,-0.333290,1.995976
+NP_036382,RRAS2,ras-related protein R-Ras2 isoform a,0.272433,2.495238
+NP_000147,GAMT,guanidinoacetate N-methyltransferase isoform a,-0.742287,1.831092
+NP_000597,C8G,complement component C8 gamma chain precursor,0.518116,3.343021
+NP_954655,BPGM,bisphosphoglycerate mutase,-0.234412,4.393183
+NP_001747,SERPINA6,corticosteroid-binding globulin precursor,0.361069,3.301226
+NP_001928,DPT,dermatopontin precursor,0.529402,3.243326
+NP_001177809,NA,putative hydroxypyruvate isomerase isoform 3,0.412437,3.612290
+NP_002415,MMP8,neutrophil collagenase preproprotein,-2.076467,0.710043
+NP_000146,GALT,galactose-1-phosphate uridylyltransferase isoform 1,0.462139,2.467553
+NP_003269,CLEC3B,tetranectin precursor,0.474088,3.168957
+NP_110439,ACTL8,actin-like protein 8,-3.197611,-0.014593
+NP_005743,NA,C-type lectin domain family 3 member A isoform 1 precursor,-5.565665,-2.056849
+NP_001231684,NA,C-type lectin domain family 3 member A isoform 2,-5.537983,-2.266088
+NP_001230707,NA,redox-regulatory protein FAM213A isoform 1 precursor,0.115583,2.697309
+NP_001299,CPN1,carboxypeptidase N catalytic chain precursor,0.518857,3.721508
+NP_001243589,NA,transcriptional enhancer factor TEF-4 isoform 2,-0.022056,-2.827463
+NP_003204,TEAD4,transcriptional enhancer factor TEF-3 isoform 1,-0.182932,-2.721406
+NP_001510,BRF1,transcription factor IIIB 90 kDa subunit isoform 1,-0.273743,1.816434
+NP_001027,RYR3,ryanodine receptor 3 isoform 1,-0.942503,-3.268547
+NP_001493,GP2,pancreatic secretory granule membrane major glycoprotein GP2 isoform 2 precursor,-3.105482,0.935302
+NP_065969,GPAM,"glycerol-3-phosphate acyltransferase 1,0.092436,2.329843
+NP_003093,SOD3,extracellular superoxide dismutase,0.025465,4.520335
+NP_000366,UROS,uroporphyrinogen-III synthase,0.003034,2.501146
+NP_000036,ARG1,arginase-1 isoform 2,-0.916448,3.637512
+NP_000531,RYR1,ryanodine receptor 1 isoform 1,-0.367144,-3.701964
+NP_055671,DENND4B,DENN domain-containing protein 4B,0.019647,2.377569
+NP_067052,NTN4,netrin-4 precursor,-0.195253,2.829983
+NP_060911,PECR,peroxisomal trans-2-enoyl-CoA reductase,0.184152,3.477719
+NP_001020787,ARHGAP24,rho GTPase-activating protein 24 isoform 1,0.400645,3.114801
+NP_112595,ARHGAP24,rho GTPase-activating protein 24 isoform 2,0.296501,3.200473
+NP_059128,PTOV1,prostate tumor-overexpressed gene 1 protein,0.459858,4.076603
+NP_079514,BTBD1,BTB/POZ domain-containing protein 1 isoform 1,-0.045954,2.726881
+NP_597719,TTC14,tetratricopeptide repeat protein 14 isoform a,-0.305155,2.603792
+NP_001267,CHI3L1,chitinase-3-like protein 1 precursor,0.038587,2.560884
+NP_003019,SHB,SH2 domain-containing adapter protein B,0.034577,-3.014647
+NP_056245,PAMR1,inactive serine protease PAMR1 isoform a precursor,0.202907,2.702556
+NP_919248,RBPMS2,RNA-binding protein with multiple splicing 2,0.192745,2.406629
+NP_003860,CES2,cocaine esterase isoform 1,-0.196346,2.545440
+NP_001861,CPA3,mast cell carboxypeptidase A precursor,-1.081382,3.133362
+NP_653218,HSPB6,heat shock protein beta-6,0.244287,4.240263
+NP_004873,CIR1,corepressor interacting with RBPJ 1,-0.213952,-2.628935
+NP_085139,EEPD1,endonuclease/exonuclease/phosphatase family domain-containing protein 1,0.065351,2.858757
+NP_002566,SERPINB2,plasminogen activator inhibitor 2,0.139960,-2.310243
+NP_002832,PTPRG,receptor-type tyrosine-protein phosphatase gamma,0.240768,2.566272
+NP_055851,ENDOD1,endonuclease domain-containing 1 protein precursor,-0.147368,2.659295
+NP_954855,CACNB1,voltage-dependent L-type calcium channel subunit beta-1 isoform 2,-0.579197,2.471566
+NP_963891,CACNB2,voltage-dependent L-type calcium channel subunit beta-2 isoform 4,-2.967543,0.000000
+NP_963890,CACNB2,voltage-dependent L-type calcium channel subunit beta-2 isoform 2,-2.924035,0.000000
+NP_000717,CACNB4,voltage-dependent L-type calcium channel subunit beta-4 isoform b,0.001925,2.471566
+NP_006605,CHL1,neural cell adhesion molecule L1-like protein isoform 1 precursor,0.423252,3.135005
+NP_116023,PIGO,GPI ethanolamine phosphate transferase 3 isoform 1,-0.240706,2.280304
+NP_115560,SYDE2,rho GTPase-activating protein SYDE2,-0.189824,-4.073894
+NP_001003818,NA,tripartite motif-containing protein 6 isoform 1,-0.025057,-2.053030
+NP_060482,KIF26B,kinesin-like protein KIF26B,-0.026883,-2.331644
+NP_003359,USP1,ubiquitin carboxyl-terminal hydrolase 1,-1.622900,-4.073092
+NP_079350,FRAS1,extracellular matrix protein FRAS1 isoform 1 precursor,0.064648,2.357020
+NP_001171597,NA,immunoglobulin lambda-like polypeptide 5 isoform 1,0.457588,4.316661
+NP_115646,LRRC8C,leucine-rich repeat-containing protein 8C,-0.026298,-2.466985
+NP_079337,LRRC8E,leucine-rich repeat-containing protein 8E isoform 1,0.036303,-3.488106
+NP_853553,AUP1,ancient ubiquitous protein 1,-0.224002,-2.443622
+NP_001180276,NA,myocyte-specific enhancer factor 2C isoform 3,0.275887,-1.846660
+NP_002388,MEF2C,myocyte-specific enhancer factor 2C isoform 1,0.270416,-1.846660
+NP_003089,SNTA1,alpha-1-syntrophin,0.207440,2.954372
+NP_056278,CNRIP1,CB1 cannabinoid receptor-interacting protein 1 isoform CRIP1a,0.697482,3.714767
+NP_057136,RRP15,RRP15-like protein,-0.355038,-2.862126
+NP_078912,STEAP4,metalloreductase STEAP4 isoform 1,-2.483519,0.556892
+NP_061036,YOD1,ubiquitin thioesterase OTU1 isoform 1,-0.580242,2.958577
+NP_001138785,FSD1L,FSD1-like protein isoform 3,0.153758,-5.602169
+NP_001007528,LMBRD2,LMBR1 domain-containing protein 2,-0.539362,-3.812466
+NP_001207417,NA,cadherin-13 isoform 2,0.237310,2.622232
+NP_001186673,NA,SAA2-SAA2 protein precursor,0.221219,2.813080
+NP_954630,SAA1,serum amyloid A-1 protein preproprotein,-0.136706,4.454127
+NP_110381,SAA2,serum amyloid A-2 protein isoform a precursor,-0.278910,3.314077
+NP_001120852,SAA2,serum amyloid A-2 protein isoform b precursor,-0.245723,2.909602
+NP_008966,KERA,keratocan precursor,-0.113519,1.932934
+NP_079198,CES3,carboxylesterase 3 isoform 1 precursor,-0.528791,-5.759845
+NP_001154178,SCEL,sciellin isoform 3,-0.735023,-2.991203
+NP_002654,PLD2,phospholipase D2 isoform PLD2A,0.093786,2.396892
+NP_003705,STC2,stanniocalcin-2 precursor,-1.356888,1.627574
+NP_665683,GSTA1,glutathione S-transferase A1,-3.561466,3.058263
+NP_000837,GSTA2,glutathione S-transferase A2,-3.669049,2.938796
+NP_000838,GSTA3,glutathione S-transferase A3,-2.819787,2.220759
+NP_714543,GSTA5,glutathione S-transferase A5,-2.775009,1.998296
+NP_001001548,CD36,platelet glycoprotein 4,0.491484,4.757827
+NP_055190,FETUB,fetuin-B precursor,0.563145,4.361184
+NP_000051,BTD,biotinidase precursor,0.452368,3.763730
+NP_258257,FAM125B,multivesicular body subunit 12B isoform 1,0.098559,2.107899
+NP_002075,GPX3,glutathione peroxidase 3 precursor,0.363951,3.455266
+NP_001092741,POC5,centrosomal protein POC5 isoform 1,0.105560,2.176190
+NP_057092,DYNC2LI1,cytoplasmic dynein 2 light intermediate chain 1 isoform 1,-0.303926,2.676736
+NP_653251,ADHFE1,"hydroxyacid-oxoacid transhydrogenase,0.449931,2.747331
+NP_001062,TYMS,thymidylate synthase,-0.081120,-2.295136
+NP_003055,SLPI,antileukoproteinase precursor,-2.569773,0.881946
+NP_803877,NUDT14,uridine diphosphate glucose pyrophosphatase,-0.025315,1.978819
+NP_001036148,NA,E3 ubiquitin-protein ligase SHPRH isoform a,-1.367106,-5.599266
+NP_003234,TGFBR3,transforming growth factor beta receptor type 3 isoform a precursor,0.019477,2.083006
+NP_001836,COL4A1,collagen alpha-1(IV) chain preproprotein,0.282771,2.776780
+NP_000082,COL4A3,collagen alpha-3(IV) chain precursor,-1.669701,1.494415
+NP_061893,TBC1D16,TBC1 domain family member 16 isoform a,-0.106257,-3.151265
+NP_064550,RAD18,E3 ubiquitin-protein ligase RAD18,-0.153479,-2.374079
+NP_653247,IGJ,immunoglobulin J chain precursor,0.072113,5.831274
+NP_006536,NPRL2,nitrogen permease regulator 2-like protein,-0.046360,2.555946
+NP_056312,TMEM87A,transmembrane protein 87A isoform 1 precursor,-0.423412,-2.440911
+NP_006017,H1FX,histone H1x,-0.806254,1.512123
+NP_001827,CMA1,chymase preproprotein,-0.307266,3.379656
+NP_064631,SLC12A9,solute carrier family 12 member 9 isoform 1,-0.188058,2.426391
+NP_006507,SLC2A1,"solute carrier family 2,-0.683692,1.828683
+NP_001954,EGF,pro-epidermal growth factor isoform 1 preproprotein,-0.145829,3.275769
+NP_059110,USP18,ubl carboxyl-terminal hydrolase 18,-0.704970,1.346287
+NP_001121557,ASPA,aspartoacylase,0.503028,3.654889
+NP_037375,SCG3,secretogranin-3 isoform 1 precursor,-0.736102,-4.133093
+NP_001158729,SCG3,secretogranin-3 isoform 2,-0.547850,-4.133093
+NP_001161771,KLHL13,kelch-like protein 13 isoform b,-0.186822,3.481002
+NP_001161773,KLHL13,kelch-like protein 13 isoform d,-0.064314,3.481002
+NP_002513,NPTX1,neuronal pentraxin-1 precursor,-0.528568,-2.988964
+NP_000213,KIT,mast/stem cell growth factor receptor Kit isoform 1 precursor,-0.064469,2.350509
+NP_005679,ABCC5,multidrug resistance-associated protein 5 isoform 1,-1.217183,-3.496855
+NP_004336,NA,cathelicidin antimicrobial peptide preproprotein,-5.687835,-2.614349
+NP_000303,PROC,vitamin K-dependent protein C preproprotein,0.428631,2.921828
+NP_078812,CHPF,chondroitin sulfate synthase 2 isoform 1,0.019392,-2.427669
+NP_001231191,NA,HMG box-containing protein 1 isoform 1,0.187534,2.821556
+NP_938408,ERGIC3,endoplasmic reticulum-Golgi intermediate compartment protein 3 isoform a,-0.304018,-2.342451
+NP_001073930,UNCX,homeobox protein unc-4 homolog,-0.552139,-3.706291
+NP_835471,NMNAT3,nicotinamide mononucleotide adenylyltransferase 3 isoform 1,-0.386129,1.802063
+NP_001186976,NA,nicotinamide mononucleotide adenylyltransferase 3 isoform 2,-0.472694,1.677958
+NP_004251,RECQL4,ATP-dependent DNA helicase Q4,0.261420,2.273256
+NP_115997,MYO18B,unconventional myosin-XVIIIb,-0.002871,2.372526
+NP_002957,S100A10,protein S100-A10,0.147453,4.403622
+NP_612508,PWWP2B,PWWP domain-containing protein 2B isoform 1,-0.197194,2.275357
+XP_003960338,NA,PREDICTED: ribose-5-phosphate isomerase-like,-0.012718,2.885323
+NP_079416,CCDC92,coiled-coil domain-containing protein 92,0.185485,2.573348
+NP_964011,GLYAT,glycine N-acyltransferase isoform a,0.554955,4.907099
+NP_004022,IRF7,interferon regulatory factor 7 isoform d,0.628932,3.825825
+NP_000272,PCBD1,pterin-4-alpha-carbinolamine dehydratase precursor,0.011843,3.254483
+NP_001758,CD2,T-cell surface antigen CD2 precursor,-0.387751,-3.141293
+NP_003434,ZBTB17,zinc finger and BTB domain-containing protein 17 isoform 2,-0.114447,-2.812244
+NP_001454,FRZB,secreted frizzled-related protein 3 precursor,0.437357,2.843599
+NP_001129491,FCGRT,IgG receptor FcRn large subunit p51 precursor,0.386675,3.076443
+NP_001819,CLC,eosinophil lysophospholipase,-3.032239,0.233204
+NP_001634,APOA2,apolipoprotein A-II preproprotein,0.524978,5.318274
+NP_114129,TAF3,transcription initiation factor TFIID subunit 3,-0.346626,-2.809159
+NP_848597,DTX3,probable E3 ubiquitin-protein ligase DTX3,0.295068,2.316110
+NP_055215,LYPD3,ly6/PLAUR domain-containing protein 3 precursor,-1.108306,4.854014
+NP_006725,HIVEP2,transcription factor HIVEP2,0.037533,-2.690627
+NP_002414,MMP7,matrilysin preproprotein,-4.283211,0.168867
+NP_001437,FABP7,"fatty acid-binding protein,-5.373120,-2.926107
+NP_059105,HOXC10,homeobox protein Hox-C10,0.203104,2.358394
+NP_061824,HOXA10,homeobox protein Hox-A10,0.525931,2.920993
+XP_001718574,NA,PREDICTED: uncharacterized protein LOC646670,-0.835767,2.575219
+NP_005501,DOM3Z,decapping and exoribonuclease protein,-0.093516,2.671339
+NP_001258864,NA,thymidine kinase 2 isoform 6,0.149001,3.191956
+NP_443192,RBP7,retinoid-binding protein 7,0.091477,3.794947
+NP_071738,GLIPR2,Golgi-associated plant pathogenesis-related protein 1,0.407838,2.797893
+XP_003118566,NA,PREDICTED: rootletin,-1.904844,2.747241
+NP_001160165,AFF1,AF4/FMR2 family member 1 isoform 1,0.150332,-1.999353
+NP_005926,AFF1,AF4/FMR2 family member 1 isoform 2,0.123457,-1.999353
+NP_071929,TMEM168,transmembrane protein 168,-0.210583,1.818120
+NP_001012241,MSL1,male-specific lethal 1 homolog,-0.270373,-3.480705
+NP_061974,APOM,apolipoprotein M isoform 1,0.232450,2.774716
+NP_003256,TLR3,toll-like receptor 3 precursor,0.083271,2.499946
+NP_060311,SDHAF2,"succinate dehydrogenase assembly factor 2,-0.305435,-3.144491
+NP_060896,TMEM63B,transmembrane protein 63B,-0.448787,-3.470792
+NP_001035533,PHF11,PHD finger protein 11 isoform a,0.032253,-2.151132
+NP_001128573,CRELD2,cysteine-rich with EGF-like domain protein 2 isoform a precursor,0.161903,-2.508709
+NP_115909,GNPTG,N-acetylglucosamine-1-phosphotransferase subunit gamma precursor,-0.058283,2.115400
+NP_055962,CEP68,centrosomal protein of 68 kDa,-0.487279,1.724937
+NP_001736,CAMLG,calcium signal-modulating cyclophilin ligand,-0.363913,-2.656081
+NP_001138368,CD209,CD209 antigen isoform 3,0.533117,2.831386
+NP_005202,CSF1R,macrophage colony-stimulating factor 1 receptor precursor,0.156536,2.393223
+NP_113618,RILP,rab-interacting lysosomal protein,0.216678,4.961201
+NP_001092755,PTMAP4,prothymosin alpha isoform 1,-1.141829,-4.256390
+XP_001126659,PTMA,PREDICTED: prothymosin alpha-like,-1.462002,-6.566071
+XP_003119575,NA,PREDICTED: prothymosin alpha-like,-2.236419,-6.180251
+NP_059136,MDM1,nuclear protein MDM1 isoform 1,0.092957,5.433262
+NP_689633,C9ORF41,UPF0586 protein C9orf41,-0.245798,-2.609696
+NP_003343,NA,small ubiquitin-related modifier 1 isoform a precursor,-0.401939,-3.461968
+NP_001181927,NA,centrosomal protein of 152 kDa isoform 1,-0.849055,-2.868199
+NP_001005463,EBF3,transcription factor COE3,0.183527,3.777290
+NP_076870,EBF1,transcription factor COE1,0.392054,3.777290
+NP_001103984,EBF4,transcription factor COE4,0.193172,3.607038
+NP_001156787,FBXL17,F-box/LRR-repeat protein 17,-0.433901,-4.491777
+NP_056315,C2CD2,C2 domain-containing protein 2 isoform 1 precursor,-0.112906,3.025091
+NP_115494,WDR54,WD repeat-containing protein 54,-0.337339,1.718775
+NP_612449,VASN,vasorin precursor,0.539558,3.471252
+NP_001073946,ODZ3,teneurin-3,-0.265722,-4.831190
+NP_001092286,ODZ4,teneurin-4,-0.971035,-3.309101
+NP_001116151,ODZ2,teneurin-2,-0.435191,-4.831190
+NP_008990,KPTN,kaptin,0.081718,2.147565
+NP_000228,LPL,lipoprotein lipase precursor,-0.038912,4.070892
+NP_996846,RARRES1,retinoic acid receptor responder protein 1 isoform 1 precursor,-1.912698,1.396155
+NP_919268,SASS6,spindle assembly abnormal protein 6 homolog,-0.591998,1.890056
+NP_116139,ABHD14B,alpha/beta hydrolase domain-containing protein 14B isoform 1,0.096801,2.413239
+NP_001180242,NA,caiB/baiF CoA-transferase family protein C7orf10 isoform 3,0.327698,-3.155375
+NP_001139746,TCF7L2,transcription factor 7-like 2 isoform 1,-0.034416,-2.230120
+NP_001185458,NA,transcription factor 7-like 2 isoform 11,0.021300,-2.230120
+NP_001229658,NA,rho guanine nucleotide exchange factor 38 isoform 1,-0.302815,2.797039
+NP_004927,CDKN2B,cyclin-dependent kinase 4 inhibitor B isoform 1,-0.458456,1.610408
+NP_001093115,RPL22L1,60S ribosomal protein L22-like 1,0.668883,2.883872
+NP_001034792,NA,neuroblastoma breakpoint family member 10,-0.802395,-3.534409
+XP_003960107,NA,PREDICTED: neuroblastoma breakpoint family member 20-like isoform 1,-0.812918,-3.534409
+XP_003846583,NA,PREDICTED: uncharacterized protein LOC100996575,-0.599679,-2.920583
+XP_003960247,NA,PREDICTED: neuroblastoma breakpoint family member 1-like,-0.598365,-4.264871
+NP_899228,NA,neuroblastoma breakpoint family member 11,-0.713339,-4.264871
+NP_060410,NBPF10,neuroblastoma breakpoint family member 1,-0.699983,-4.264871
+XP_003846431,NA,PREDICTED: neuroblastoma breakpoint family member 3-like,-0.711204,-4.321337
+NP_001087195,SEPP1,selenoprotein P isoform 2,0.640043,3.655581
+NP_000193,IDS,iduronate 2-sulfatase isoform a precursor,0.186352,2.681081
+NP_001092260,MID1IP1,mid1-interacting protein 1,-0.257905,2.081516
+NP_056109,TRIM37,E3 ubiquitin-protein ligase TRIM37,-0.862983,-3.029865
+NP_689616,EGFLAM,pikachurin isoform 1 precursor,-0.212965,3.329190
+NP_000336,SNCA,alpha-synuclein isoform NACP140,-0.445454,4.505589
+NP_002173,IL1RAP,interleukin-1 receptor accessory protein isoform 1 precursor,0.376733,4.224223
+NP_001161403,IL1RAP,interleukin-1 receptor accessory protein isoform 3 precursor,0.453731,3.980859
+NP_149977,LMF2,lipase maturation factor 2,-0.258589,-3.557572
+NP_003656,FCN3,ficolin-3 isoform 1 precursor,0.141656,3.423129
+NP_001035972,NA,galectin-7,-2.211914,2.105166
+NP_001053,TCN1,transcobalamin-1 precursor,-0.711722,1.968128
+NP_699196,TAPT1,transmembrane anterior posterior transformation protein 1 homolog,-0.374281,-2.542484
+NP_000233,MBL2,mannose-binding protein C precursor,0.239307,2.987662
+NP_075383,JMJD4,jmjC domain-containing protein 4 isoform 1,0.116025,-1.891907
+NP_694957,C8ORF84,somatomedin-B and thrombospondin type-1 domain-containing protein precursor,-0.479283,3.418538
+NP_001008528,MXRA7,matrix-remodeling-associated protein 7 isoform 1 precursor,-0.631899,-2.873528
+NP_001008529,MXRA7,matrix-remodeling-associated protein 7 isoform 2 precursor,-0.851108,-2.927615
+NP_006732,PPP1R1A,protein phosphatase 1 regulatory subunit 1A,0.327096,3.283846
+NP_954587,C7ORF46,protein FAM221A isoform 1,-0.170793,-2.391520
+NP_001120836,C7ORF46,protein FAM221A isoform 2,-0.172363,-2.391520
+NP_057204,RLIM,E3 ubiquitin-protein ligase RLIM,-1.114392,-5.739344
+NP_003029,SLC1A4,neutral amino acid transporter A isoform 1,-0.819399,-4.009288
+NP_004163,SLC1A3,excitatory amino acid transporter 1 isoform 1,-0.150808,-3.442703
+NP_057670,MBIP,MAP3K12-binding inhibitory protein 1 isoform 1,0.007705,2.340985
+NP_002389,MEIS1,homeobox protein Meis1,-0.284627,1.914002
+NP_064545,NA,homeobox protein Meis3 isoform 1,0.347104,2.424134
+NP_113657,SH3BGRL2,SH3 domain-binding glutamic acid-rich-like protein 2,0.226091,3.831970
+NP_006278,TFPI,tissue factor pathway inhibitor isoform a precursor,0.067305,3.386756
+NP_001027452,TFPI,tissue factor pathway inhibitor isoform b precursor,0.119445,3.925990
+NP_443168,ATG4A,cysteine protease ATG4A isoform a,0.169086,2.610203
+NP_009199,VSIG4,V-set and immunoglobulin domain-containing protein 4 isoform 1 precursor,0.204383,3.309844
+NP_001244332,NA,V-set and immunoglobulin domain-containing protein 4 isoform 5 precursor,0.140895,3.309844
+NP_038286,ARHGAP6,rho GTPase-activating protein 6 isoform 1,0.131557,3.417711
+NP_000123,F8,coagulation factor VIII isoform a precursor,-0.022250,-2.218417
+NP_000707,C4BPB,C4b-binding protein beta chain isoform 1 precursor,0.407470,3.212772
+NP_066545,GINS1,DNA replication complex GINS protein PSF1,-0.191762,3.605974
+NP_002996,SELP,P-selectin precursor,0.504063,3.199928
+NP_001017368,RFFL,E3 ubiquitin-protein ligase rififylin,-0.088014,2.879370
+NP_001164263,FAM82A1,regulator of microtubule dynamics protein 2 isoform 2,0.205947,2.555870
+NP_653314,FAM82A1,regulator of microtubule dynamics protein 2 isoform 1,-0.085368,1.951673
+NP_001177915,NA,cysteine-rich secretory protein 3 isoform 2 precursor,-1.621784,1.640450
+NP_757345,TAPBP,tapasin isoform 2 precursor,-0.708971,-2.781033
+NP_003909,GYG2,glycogenin-2 isoform b,0.338896,5.537401
+NP_005776,RNF41,E3 ubiquitin-protein ligase NRDP1 isoform 1,0.130901,-1.891945
+NP_001230618,NA,LETM1 domain-containing protein 1 isoform 3,-0.609309,-4.121849
+NP_005698,PDCD7,programmed cell death protein 7,-0.401676,-2.809564
+NP_078796,C2ORF47,"uncharacterized protein C2orf47,-0.293142,-2.780947
+NP_000090,CST3,cystatin-C precursor,0.279543,3.427332
+NP_570968,CREB3L4,cyclic AMP-responsive element-binding protein 3-like protein 4 isoform 1,-0.373675,-2.653305
+NP_003640,DDO,D-aspartate oxidase isoform a,-0.089493,2.653294
+NP_937875,RNASE1,ribonuclease pancreatic precursor,-0.466910,2.055458
+NP_005827,HRSP12,ribonuclease UK114,-0.562494,1.664310
+NP_001120729,SLC39A10,zinc transporter ZIP10 precursor,-3.442937,0.547651
+NP_001074008,CCDC150,coiled-coil domain-containing protein 150,-0.619798,-3.934072
+NP_068801,TCL1A,T-cell leukemia/lymphoma protein 1A,0.350844,-2.740944
+NP_005322,HBQ1,hemoglobin subunit theta-1,-0.101218,4.716598
+NP_064554,LXN,latexin,0.294236,2.442487
+NP_115527,PCBD2,pterin-4-alpha-carbinolamine dehydratase 2,-0.237947,3.020728
+NP_000018,AGA,N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase isoform 1 preproprotein,-0.038650,2.536456
+NP_001963,ELANE,neutrophil elastase preproprotein,-2.712998,2.616162
+NP_036545,QPCT,glutaminyl-peptide cyclotransferase precursor,-0.080083,2.539858
+NP_005323,HBZ,hemoglobin subunit zeta,-2.235000,2.684726
+NP_001001551,NA,probable gluconokinase isoform 1,-0.258669,2.219325
+NP_056177,C17ORF81,elongator complex protein 5 isoform 1,0.285096,-1.850891
+NP_000220,LCAT,phosphatidylcholine-sterol acyltransferase precursor,0.361320,2.870358
+NP_005032,PRF1,perforin-1 precursor,0.268063,2.341564
+NP_055073,SYCP2,synaptonemal complex protein 2,-0.439462,-3.185940
+NP_775901,RTTN,rotatin,-1.228714,-3.267033
+NP_060945,TMEM165,transmembrane protein 165 precursor,-1.029237,-5.841594
+NP_001020280,CD34,hematopoietic progenitor cell antigen CD34 isoform a precursor,0.137182,4.184105
+NP_945187,NUDT1,"7,0.131161,-2.261792
+NP_055365,CARD10,caspase recruitment domain-containing protein 10,-0.100070,-2.600876
+NP_031376,PHLDA1,pleckstrin homology-like domain family A member 1,-0.691510,3.305584
+NP_001186088,NA,peptidase inhibitor 16 precursor,0.332461,2.935542
+NP_037504,GREM1,gremlin-1 isoform 1 precursor,-0.424781,1.782212
+NP_001178251,NA,gremlin-1 isoform 3,-0.337133,1.782212
+NP_542763,SRXN1,sulfiredoxin-1,-0.070618,2.287121
+NP_005006,OXA1L,mitochondrial inner membrane protein OXA1L,-0.284025,-2.340956
+NP_777588,N6AMT2,N(6)-adenine-specific DNA methyltransferase 2,-0.179439,-2.420392
+NP_001351,DHCR7,7-dehydrocholesterol reductase,-0.731089,-3.705172
+NP_076419,KCTD14,BTB/POZ domain-containing protein KCTD14,-1.094112,1.820435
+NP_001129245,SPATA2,spermatogenesis-associated protein 2,-0.037532,-3.023334
+NP_001691,AZU1,azurocidin preproprotein,-2.553941,0.569777
+NP_005309,H1F0,histone H1.0,-1.394880,2.356154
+NP_079335,C6ORF97,coiled-coil domain-containing protein 170,-0.130588,2.273256
+NP_938011,NHS,Nance-Horan syndrome protein isoform 1,0.158197,2.795395
+NP_000568,IL1RN,interleukin-1 receptor antagonist protein isoform 3,-0.212066,1.901962
+NP_005493,ABCA1,ATP-binding cassette sub-family A member 1,-0.034630,3.690987
+NP_057210,HSPB11,heat shock protein beta-11,-0.059756,2.170143
+NP_001191217,NA,mucin-1 isoform 12 precursor,-0.459608,1.559177
+NP_387467,HELB,DNA helicase B,0.144791,3.509514
+NP_005612,S100A12,protein S100-A12,-5.194630,-2.580203
+NP_001094288,PID1,"PTB-containing,0.515449,2.996639
+NP_060403,PID1,"PTB-containing,0.590550,2.664953
+NP_078851,TNFAIP8L2,tumor necrosis factor alpha-induced protein 8-like protein 2,-0.032083,-2.656023
+NP_064619,DTWD1,DTW domain-containing protein 1,0.136365,2.245907
+NP_000646,SELL,L-selectin precursor,0.805676,3.951332
+NP_006601,MASP2,mannan-binding lectin serine protease 2 isoform 1 preproprotein,0.358922,3.712135
+NP_001242959,NA,CD48 antigen isoform 2 precursor,0.200065,2.830223
+NP_001122088,ARHGEF3,rho guanine nucleotide exchange factor 3 isoform 2,0.163767,5.249632
+NP_001122087,ARHGEF3,rho guanine nucleotide exchange factor 3 isoform 1,0.159564,5.249632
+NP_076920,HOXB4,homeobox protein Hox-B4,-0.197865,-2.238278
+NP_004964,JARID2,protein Jumonji isoform 1,-1.261108,1.403596
+NP_001599,ACADL,"long-chain specific acyl-CoA dehydrogenase,0.047329,4.249920
+NP_006682,LYVE1,lymphatic vessel endothelial hyaluronic acid receptor 1 precursor,0.354707,5.295454
+NP_036323,NAT6,N-acetyltransferase 6 isoform 1,0.094851,2.465011
+NP_000557,NA,high affinity immunoglobulin gamma Fc receptor I precursor,-0.095469,-2.639647
+NP_065690,RIPK4,receptor-interacting serine/threonine-protein kinase 4,-2.788838,0.000000
+NP_783313,NDUFA11,NADH dehydrogenase,-0.110222,2.350777
+NP_001244109,NA,sodium-dependent phosphate transporter 2,-0.546224,5.979007
+NP_115497,MAGT1,magnesium transporter protein 1,-0.470886,-2.764209
+NP_001068566,MOCS1,molybdenum cofactor biosynthesis protein 1 isoform 4,0.111310,2.967733
+NP_775498,RFESD,Rieske domain-containing protein isoform 2,0.055027,3.700422
+NP_060142,TRPM7,transient receptor potential cation channel subfamily M member 7,-1.708293,-4.679402
+NP_660160,DHRSX,dehydrogenase/reductase SDR family member on chromosome X precursor,-0.095318,1.960739
+NP_002880,RARRES2,retinoic acid receptor responder protein 2 precursor,0.513480,2.985306
+NP_110413,SYNC,syncoilin isoform 1,0.280646,-5.456713
+NP_079133,ATAD5,ATPase family AAA domain-containing protein 5,-1.022183,-3.024949
+NP_001997,FGF2,fibroblast growth factor 2,-1.045584,2.326144
+NP_116016,SSBP4,single-stranded DNA-binding protein 4 isoform a,0.221591,2.690120
+NP_004099,FCN2,ficolin-2 isoform a precursor,0.223508,3.052072
+NP_036324,FXC1,mitochondrial import inner membrane translocase subunit Tim10 B,0.113526,2.316359
+NP_001229338,NA,GRB2-associated and regulator of MAPK protein isoform 1,-0.554464,-5.517556
+NP_001247441,NA,microsomal glutathione S-transferase 1 isoform b,-0.899368,1.240170
+NP_001254527,NA,microsomal glutathione S-transferase 1 isoform c,-0.846270,1.240170
+NP_114131,TMEM120A,transmembrane protein 120A,-0.398214,-2.674267
+NP_444292,GNG2,guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2 precursor,0.090087,2.159348
+NP_001265227,NA,collagen alpha-5(VI) chain isoform 1 precursor,-0.252436,5.617908
+NP_653237,CHCHD4,mitochondrial intermembrane space import and assembly protein 40 isoform 2,-0.134967,-2.494915
+NP_001156002,C1ORF113,SH3 domain-containing protein 21 isoform 1,0.226891,-2.702834
+NP_056045,ARAP2,"arf-GAP with Rho-GAP domain,-0.840259,-3.212161
+NP_001325,CTSO,cathepsin O preproprotein,0.099710,2.199382
+NP_116175,ZC3H10,zinc finger CCCH domain-containing protein 10,-3.104404,-7.364038
+NP_203753,KIAA1731,centrosomal protein KIAA1731,-1.037588,-4.730439
+NP_996769,NA,coiled-coil domain-containing protein 18,-3.510660,-0.876211
+NP_002280,LALBA,alpha-lactalbumin precursor,-7.552037,-0.055602
+NP_002764,PRSS8,prostasin preproprotein,-0.420585,3.289685
+NP_001257323,NA,cAMP-dependent protein kinase inhibitor beta isoform 2,-1.919899,0.343234
+NP_976075,CD59,CD59 glycoprotein preproprotein,0.151309,3.347875
+NP_000915,PDE1B,"calcium/calmodulin-dependent 3',-0.001989,3.652492
+NP_001159447,PDE1B,"calcium/calmodulin-dependent 3',-0.080559,2.717020
+NP_057144,MED31,mediator of RNA polymerase II transcription subunit 31,0.003543,-2.004019
+NP_001107605,SYNPO2L,synaptopodin 2-like protein isoform a,-0.754371,3.038383
+NP_001314,CST6,cystatin-M precursor,-0.819820,1.642144
+NP_004724,SLC33A1,acetyl-coenzyme A transporter 1,-0.408637,-2.634710
+NP_001177768,NA,matrix Gla protein isoform 1 precursor,-2.222548,0.825288
+NP_004156,RRAD,GTP-binding protein RAD,0.043515,2.211986
+NP_000122,F7,coagulation factor VII isoform a preproprotein,-0.077929,1.952771
+NP_775919,NA,coiled-coil domain-containing protein 141,-0.579470,-2.660910
+NP_004442,ESRRA,steroid hormone receptor ERR1,-0.189433,-2.268686
+NP_542399,CDCA5,sororin,-0.314491,-3.840438
+NP_076997,TMEM109,transmembrane protein 109 precursor,-0.463826,-2.552264
+NP_114157,WDR87,WD repeat-containing protein 87,-0.605237,-2.648135
+NP_006820,C10ORF116,adipogenesis regulatory factor,-1.097967,1.220551
+NP_776169,NEGR1,neuronal growth regulator 1 precursor,-0.507068,2.402428
+NP_113601,CECR2,cat eye syndrome critical region protein 2,-0.962618,2.171671
+NP_004657,VNN1,pantetheinase precursor,0.473177,2.706657
+NP_150592,XRCC6BP1,mitochondrial inner membrane protease ATP23 homolog,0.353554,4.684181
+NP_057179,GINS2,DNA replication complex GINS protein PSF2,-0.259812,2.582433
+NP_620134,C13ORF27,testis-expressed sequence 30 protein,0.021438,-3.647057
+NP_115893,UNC80,protein unc-80 homolog isoform 1,0.263588,2.534914
+NP_849144,IGSF10,immunoglobulin superfamily member 10 isoform 1 precursor,-0.129314,4.202515
+XP_001717815,NA,PREDICTED: ankyrin repeat domain-containing protein 36B isoform 1,-0.402801,3.817812
+XP_003119912,NA,PREDICTED: ankyrin repeat domain-containing protein 36A,-0.395843,3.817812
+YP_003024029,COX2,cytochrome c oxidase subunit II,-0.286422,-2.450578
+NP_113650,CD99L2,CD99 antigen-like protein 2 isoform 1 precursor,-0.098217,2.174151
+NP_006173,DDR2,discoidin domain-containing receptor 2 precursor,0.298441,2.655698
+NP_001265358,NA,leukocyte immunoglobulin-like receptor subfamily B member 4 isoform 4,0.208506,2.660196
+NP_001265356,NA,leukocyte immunoglobulin-like receptor subfamily B member 4 isoform 2 precursor,0.233253,2.660196
+NP_006856,NA,leukocyte immunoglobulin-like receptor subfamily A member 3 isoform 1 precursor,0.114660,3.495979
+NP_001074919,LILRB3,leukocyte immunoglobulin-like receptor subfamily B member 3 isoform 1 precursor,-0.384346,-3.823375
+NP_065907,TSHZ3,teashirt homolog 3,-0.023486,-2.458884
+NP_071894,RAB17,ras-related protein Rab-17,-0.323387,2.077582
+NP_036351,MRAS,ras-related protein M-Ras isoform 1 precursor,0.681923,4.000802
+NP_055239,HSPB7,heat shock protein beta-7,0.122762,2.829426
+NP_004282,CARTPT,cocaine- and amphetamine-regulated transcript protein preproprotein,-7.295226,-2.889584
+NP_001257965,NA,low affinity immunoglobulin gamma Fc region receptor III-B isoform 4,-0.447239,2.268671
+NP_000560,FCGR3A,low affinity immunoglobulin gamma Fc region receptor III-A isoform a precursor,0.125270,2.405697
+NP_003755,STX11,syntaxin-11,-1.122514,2.296034
+NP_057461,NA,A-kinase anchor protein 7 isoform gamma isoform gamma,-0.244716,1.761158
+NP_061859,SH3TC1,SH3 domain and tetratricopeptide repeat-containing protein 1,-0.193752,-3.083404
+NP_001034761,YIF1B,protein YIF1B isoform 5,0.019976,4.687647
+NP_057550,ANKRD39,ankyrin repeat domain-containing protein 39,0.010181,2.253812
+NP_660143,MAP2K5,dual specificity mitogen-activated protein kinase kinase 5 isoform A,0.314931,-1.720716
+NP_055676,ATP2C2,calcium-transporting ATPase type 2C member 2,-1.331725,-3.534273
+NP_001776,CDA,cytidine deaminase,-1.515929,1.585315
+NP_065078,NKIRAS1,NF-kappa-B inhibitor-interacting Ras-like protein 1,-0.088534,2.081165
+NP_061993,NA,protocadherin beta-8 precursor,-0.064884,-3.334819
+NP_061756,PCDHB13,protocadherin beta-13 precursor,-0.356739,-3.334819
+NP_056203,YIPF3,protein YIPF3,-0.558128,-2.840906
+NP_006262,S100A1,protein S100-A1,-1.543064,2.532898
+NP_079412,OPA3,optic atrophy 3 protein isoform b,-0.459475,2.764380
+NP_001017989,OPA3,optic atrophy 3 protein isoform a,-0.477574,2.764380
+NP_002719,PRG2,bone marrow proteoglycan isoform 1 preproprotein,-2.144621,0.317792
+NP_000456,BARD1,BRCA1-associated RING domain protein 1,0.807900,4.508105
+NP_775889,INO80E,INO80 complex subunit E,-0.016688,1.983365
+NP_001007468,SFI1,protein SFI1 homolog isoform a,-0.947436,-3.075973
+NP_055580,TOMM20,mitochondrial import receptor subunit TOM20 homolog,-0.119395,2.243112
+NP_065727,ABHD6,monoacylglycerol lipase ABHD6,0.078744,2.505851
+NP_001015882,NA,dnaJ homolog subfamily C member 25 precursor,-0.609989,3.371499
+NP_001001790,TOMM5,mitochondrial import receptor subunit TOM5 homolog isoform 1,-0.479083,1.840282
+NP_001171656,NA,G-protein coupled receptor-associated sorting protein 1,-0.185917,-3.472097
+NP_848602,OAF,out at first protein homolog precursor,0.278769,3.144627
+NP_055976,ARL6IP1,ADP-ribosylation factor-like protein 6-interacting protein 1,-0.142237,-2.670473
+NP_009099,ABCA8,ATP-binding cassette sub-family A member 8,-0.225489,3.236074
+NP_525022,ABCA9,ATP-binding cassette sub-family A member 9,-0.033275,7.555021
+NP_001026909,ASB9,ankyrin repeat and SOCS box protein 9 isoform 1,0.054669,2.115958
+NP_001162002,ASB9,ankyrin repeat and SOCS box protein 9 isoform 3,0.042368,2.705645
+NP_003842,CREG1,protein CREG1 precursor,0.445903,3.662313
+NP_001229410,NA,probable RNA-binding protein EIF1AD,0.014184,-2.047121
+NP_995325,NA,musculoskeletal embryonic nuclear protein 1,-1.074470,1.429586
+NP_001185903,NA,TMEM110-MUSTN1 fusion protein,-0.963731,1.306592
+NP_001180265,NA,putative SEC14-like protein 6,-0.503034,2.092986
+NP_002013,FMO4,dimethylaniline monooxygenase,0.099526,-2.988677
+NP_000624,BCL2,apoptosis regulator Bcl-2 alpha isoform,-0.408987,1.774533
+NP_689947,C6ORF89,bombesin receptor-activated protein C6orf89,-0.921563,-4.368903
+NP_996816,USH2A,usherin isoform B,-0.600646,2.163102
+NP_002816,PTN,pleiotrophin precursor,0.289118,3.952936
+NP_003551,PLA2G6,85/88 kDa calcium-independent phospholipase A2 isoform a,-0.578805,-3.039886
+NP_000031,APOC3,apolipoprotein C-III precursor,0.448673,4.834915
+NP_078933,MORC4,MORC family CW-type zinc finger protein 4 isoform a,-0.111547,-4.073894
+NP_003990,OSMR,oncostatin-M-specific receptor subunit beta isoform 1 precursor,0.006617,2.081175
+NP_001882,CSN2,beta-casein precursor,-4.751006,0.000000
+NP_003167,SYCP1,synaptonemal complex protein 1,-0.622198,-2.674045
+NP_001138450,MTHFD2L,probable bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase 2,-1.215389,-4.139292
+NP_009188,PNMA2,paraneoplastic antigen Ma2,-0.026770,2.625061
+XP_003960473,NA,PREDICTED: LOW QUALITY PROTEIN: protein FAM86B2,0.219981,6.094313
+NP_003752,VAMP8,vesicle-associated membrane protein 8,-0.382676,-2.579039
+NP_057646,TLR7,toll-like receptor 7 precursor,-0.310000,-3.255452
+XP_003960602,NA,PREDICTED: uncharacterized protein LOC642131,0.483699,2.874486
+NP_006770,CDC42EP2,cdc42 effector protein 2,0.245514,2.595581
+NP_005973,SIX1,homeobox protein SIX1,-0.216413,1.837146
+NP_001231693,NA,TNFAIP3-interacting protein 3 isoform 3,-1.556733,-6.464385
+NP_001243794,NA,putative tyrosine-protein phosphatase auxilin isoform 3,-0.661857,6.137810
+NP_002768,PRTN3,myeloblastin precursor,-3.336170,-0.669343
+NP_001248370,NA,exostosin-like 2 isoform 3,0.182482,2.824307
+NP_003723,NA,eukaryotic translation initiation factor 4E-binding protein 3,-0.124276,-3.058549
+NP_001636,APOC1,apolipoprotein C-I precursor,0.182762,4.341006
+NP_057717,AHSP,alpha-hemoglobin-stabilizing protein,-0.274312,4.075468
+NP_733752,MLX,max-like protein X isoform gamma,0.142582,2.281598
+NP_006263,S100B,protein S100-B,-0.628287,3.714772
+NP_004066,CRY1,cryptochrome-1,-0.235910,3.321033
+NP_004551,ROR2,tyrosine-protein kinase transmembrane receptor ROR2 precursor,-0.459293,5.913177
+NP_001243055,NA,ceramide synthase 6 isoform 1,-0.859225,-4.042522
+NP_000423,MYL2,"myosin regulatory light chain 2,-1.516788,-4.260133
+NP_061742,PCDHGA6,protocadherin gamma-A6 isoform 1 precursor,-0.270222,-3.140081
+NP_872304,ZNF428,zinc finger protein 428,-0.202092,-2.376383
+NP_001629,APOF,apolipoprotein F precursor,0.257464,4.117527
+NP_002695,PPBP,platelet basic protein preproprotein,-0.119951,5.529152
+NP_071939,ZDHHC6,palmitoyltransferase ZDHHC6,-0.206706,-2.644356
+NP_060600,SHQ1,protein SHQ1 homolog,-2.047177,0.000000
+NP_055917,NPHP4,nephrocystin-4,-0.083663,-3.715103
+NP_659399,PEBP4,phosphatidylethanolamine-binding protein 4 precursor,0.305910,4.368533
+NP_000474,APOC2,apolipoprotein C-II precursor,0.366783,4.214795
+NP_077289,NOL12,nucleolar protein 12,-1.353864,-5.050540
+NP_065148,RETN,resistin precursor,-5.063571,-0.753429
+NP_254274,IL33,interleukin-33 isoform 1 precursor,0.665235,4.173910
+NP_001073910,TTC36,tetratricopeptide repeat protein 36,0.080571,2.857174
+NP_055551,KIAA0101,PCNA-associated factor isoform 1,-0.593457,-3.267703
+NP_001025160,KIAA0101,PCNA-associated factor isoform 2,-0.784008,-3.660516
+NP_000945,NA,prostaglandin-H2 D-isomerase precursor,0.881451,4.592815
+NP_001034779,CHTF8,chromosome transmission fidelity protein 8 homolog,0.067476,-2.453553
+NP_001171506,NA,centrosomal protein of 85 kDa-like isoform c,-1.371221,-3.737306
+NP_777555,PCP2,Purkinje cell protein 2 homolog isoform 1,-0.222251,2.236045
+NP_078828,LASS4,ceramide synthase 4,-1.506773,-4.196507
+NP_110416,HM13,minor histocompatibility antigen H13 isoform 1,-0.697339,-2.859589
+NP_848697,HM13,minor histocompatibility antigen H13 isoform 4,-0.747194,-4.828698
+NP_001015038,PAGE2B,putative G antigen family E member 3,-9.197259,-1.924847
+NP_997222,PAGE2,P antigen family member 2,-9.133835,-1.924847
+NP_005825,TIMM17B,mitochondrial import inner membrane translocase subunit Tim17-B isoform 2,-0.139244,2.285513
+NP_001161419,TIMM17B,mitochondrial import inner membrane translocase subunit Tim17-B isoform 1,-0.124387,2.285513
+NP_001137453,CHRDL1,chordin-like protein 1 isoform 1 precursor,0.046888,3.586123
+NP_835225,NA,protein CXorf40A isoform a,-0.420104,1.913867
+NP_003298,TRPM2,transient receptor potential cation channel subfamily M member 2,-1.215694,-3.865776
+NP_001241667,NA,rho-related GTP-binding protein RhoE precursor,-0.066328,2.379621
+NP_078907,C11ORF61,myb/SANT-like DNA-binding domain-containing protein 2,-0.037849,2.041929
+NP_710142,USH1C,harmonin isoform b3,-0.572907,-3.269931
+NP_055094,OLFM1,noelin isoform 1 precursor,-0.435784,-2.658468
+NP_112561,TEX15,testis-expressed sequence 15 protein,-0.394815,-2.648135
+NP_005181,CCNC,cyclin-C isoform a,0.018300,-2.980150
+NP_055749,DZIP1,zinc finger protein DZIP1 isoform 1,-0.791125,-2.891989
+NP_115740,DNAJC14,dnaJ homolog subfamily C member 14,-0.759909,2.530244
+NP_001186,BFSP1,filensin isoform 1,-0.318083,2.650212
+NP_001637,APOC4,apolipoprotein C-IV precursor,0.436081,5.078501
+NP_705838,CMYA5,cardiomyopathy-associated protein 5,-1.350992,-4.112433
+NP_000302,PRNP,major prion protein preproprotein,-0.487231,1.896189
+NP_001010870,TDRD6,tudor domain-containing protein 6 isoform 1,-0.320888,-2.868371
+XP_003960229,NA,PREDICTED: DNA-directed RNA polymerase III subunit RPC7-like,-0.361893,-3.180232
+NP_066919,CACNA1I,voltage-dependent T-type calcium channel subunit alpha-1I isoform a,0.005869,-2.544918
+NP_065695,TMEM9B,transmembrane protein 9B precursor,-0.421669,-3.949106
+NP_001265360,NA,complement C1q tumor necrosis factor-related protein 5 precursor,-0.160984,-2.565876
+NP_006542,SCGB1D2,secretoglobin family 1D member 2 precursor,-1.472515,3.293711
+XP_003960392,NA,PREDICTED: uncharacterized protein LOC285556,-1.435286,-4.931842
+NP_001193884,NA,contactin-4 isoform a precursor,-1.251176,-3.453738
+NP_783302,CNTN4,contactin-4 isoform c,-1.434084,-3.453738
+NP_110433,C1ORF21,uncharacterized protein C1orf21,-1.004288,-3.234819
+NP_005208,DEFA3,neutrophil defensin 3 preproprotein,-4.670246,0.241648
+NP_001245249,NA,tumor protein p53-inducible protein 11,-0.698634,-3.041883
+NP_001121070,NA,insulin-like growth factor II isoform 2,0.412505,2.829837
+NP_612417,GTF3C6,general transcription factor 3C polypeptide 6,-0.395387,-2.979116
+NP_001984,F3,tissue factor isoform 1 precursor,-0.031426,5.284321
+NP_065744,DSCAML1,Down syndrome cell adhesion molecule-like protein 1,-0.732237,1.321191
+NP_001002759,C10ORF78,swi5-dependent recombination DNA repair protein 1 homolog isoform a,-0.544485,-4.105480
+NP_525021,ABCA10,ATP-binding cassette sub-family A member 10,-0.182398,2.171857
+NP_543011,C20ORF108,protein FAM210B,-0.865742,-3.285011
+NP_004420,EFNB1,ephrin-B1 precursor,0.123061,3.311608
+NP_005075,PLA2G7,platelet-activating factor acetylhydrolase precursor,0.244054,2.448510
+NP_660310,C6ORF57,UPF0369 protein C6orf57 precursor,-0.082287,2.070148
+NP_444513,DCD,dermcidin preproprotein,-1.767071,1.159934
+NP_071383,MRPS14,"28S ribosomal protein S14,-0.276957,-2.861343
+NP_778230,CLEC14A,C-type lectin domain family 14 member A precursor,0.201296,3.123446
+NP_061908,PCDH18,protocadherin-18 precursor,-0.515927,2.014020
+NP_060174,ANKRD49,ankyrin repeat domain-containing protein 49,-0.060044,2.127588
+NP_001070148,C17ORF108,LYR motif-containing protein 9,-0.582986,1.905141
+NP_006310,CDIPT,CDP-diacylglycerol--inositol 3-phosphatidyltransferase,-0.522105,-3.304296
+NP_006094,WFDC2,WAP four-disulfide core domain protein 2 precursor,-2.735160,2.900076
+NP_001265319,NA,sodium-coupled neutral amino acid transporter 1 isoform 2,0.231408,-3.960981
+NP_001157871,C14ORF38,coiled-coil domain-containing protein 175,-0.800511,-3.029061
+NP_065986,USP37,ubiquitin carboxyl-terminal hydrolase 37,-0.974400,3.531027
+NP_001188472,NA,protein FAM161A isoform 1,-0.483134,-2.959481
+NP_055455,TTLL4,tubulin polyglutamylase TTLL4,-0.404087,5.367485
+NP_620482,MYO3B,myosin-IIIb isoform 2,0.214520,3.242022
+NP_001135419,CCDC66,coiled-coil domain-containing protein 66 isoform 1,-0.480983,2.118639
+NP_056305,SEC31B,protein transport protein Sec31B,-0.429374,-2.696700
+NP_003349,UGCG,ceramide glucosyltransferase,-0.207044,2.789637
+NP_001092903,JAKMIP1,janus kinase and microtubule-interacting protein 1 isoform 1,-1.487749,-4.031444
+NP_653321,JAKMIP1,janus kinase and microtubule-interacting protein 1 isoform 2,-1.761514,-4.031444
+NP_001243559,NA,serine/threonine-protein kinase BRSK2 isoform 4,-0.899551,-4.368903
+NP_115806,BRSK1,serine/threonine-protein kinase BRSK1,-0.998963,-4.368903
+NP_006724,CENPI,centromere protein I,-2.790274,-8.215058
+NP_055543,FRMPD4,FERM and PDZ domain-containing protein 4,-0.426331,-2.688559
+NP_008875,SPP2,secreted phosphoprotein 24 precursor,-1.270679,2.206660
+NP_031363,DLEC1,deleted in lung and esophageal cancer protein 1 isoform DLEC1-S3,-0.750333,-4.121849
+NP_110422,STMN4,stathmin-4,-2.115730,-4.421454
+NP_001264262,NA,ankyrin repeat domain-containing protein 62,-2.172305,-5.214213
+NP_004322,BNIP3L,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like,-0.636626,-2.892161
+NP_002610,PF4,platelet factor 4 precursor,0.071792,6.088175
+NP_002611,PF4V1,platelet factor 4 variant precursor,0.247349,6.584206
+NP_775760,HEATR7B2,maestro heat-like repeat-containing protein family member 2B,0.338409,2.564482
+NP_660344,NA,Golgi apparatus membrane protein TVP23 homolog C isoform 1,-0.133221,1.938082
+NP_116166,NA,G-protein coupled receptor 124 precursor,-0.488578,3.041505
+NP_004603,TGFBR1,TGF-beta receptor type-1 isoform 1 precursor,-1.084096,-5.213203
+NP_005937,MT1A,metallothionein-1A,-1.919866,-4.171257
+NP_689613,C4ORF32,uncharacterized protein C4orf32,-0.178673,-4.667375
+NP_852091,CCDC39,coiled-coil domain-containing protein 39,-1.614494,-3.864286
+NP_477515,UBE2J2,ubiquitin-conjugating enzyme E2 J2 isoform 2,-0.938298,1.100942
+NP_001070966,C17ORF63,protein FAM222B,-0.687308,1.608704
+NP_115800,KIAA1826,myb/SANT-like DNA-binding domain-containing protein 4,-0.509250,-5.000312
+NP_001135772,CCNYL1,cyclin-Y-like protein 1 isoform 1,0.327467,-1.759966
+NP_689736,CCNYL1,cyclin-Y-like protein 1 isoform 2,0.409184,-1.759966
+NP_001129595,FAM178A,protein FAM178A isoform 2,-0.859325,-3.561900
+NP_054766,C19ORF53,leydig cell tumor 10 kDa protein homolog,-0.524240,-3.083707
+NP_002222,CD82,CD82 antigen isoform 1,-1.028759,-3.748901
+NP_079022,HHIPL2,HHIP-like protein 2 precursor,-1.034138,-4.544947
+NP_002980,CCL21,C-C motif chemokine 21 precursor,0.243218,4.553688
+NP_932766,AQP1,aquaporin-1 isoform 1,0.364958,3.374859
+NP_065138,PLXDC1,plexin domain-containing protein 1 precursor,-1.906168,0.576125
+NP_620411,ESAM,endothelial cell-selective adhesion molecule precursor,0.359908,3.124324
+NP_000825,GRIN2B,"glutamate receptor ionotropic,-0.484483,-2.703849
+NP_940891,CCDC84,coiled-coil domain-containing protein 84,-0.553873,-5.317526
+NP_690878,C17ORF103,protein GTLF3B,0.330410,7.654235
+NP_001010906,C8ORF80,nuclear GTPase SLIP-GC,-0.268449,6.031994
+NP_001254514,NA,F-box/WD repeat-containing protein 10 isoform 1,-0.455334,-2.589965
+NP_932348,CCDC57,coiled-coil domain-containing protein 57,-0.876742,-4.865121
+NP_056496,B9D1,B9 domain-containing protein 1 isoform b,0.147658,2.480493
+NP_001180386,NA,intermediate filament family orphan 1 isoform 5,-1.103666,-3.407208
+NP_004878,CXCL14,C-X-C motif chemokine 14 precursor,-0.832870,1.396429
+NP_001017969,KIAA2026,uncharacterized protein KIAA2026,-0.143342,2.795395
+NP_775788,VKORC1L1,vitamin K epoxide reductase complex subunit 1-like protein 1,0.124324,-2.968636
+NP_116738,NA,C-C motif chemokine 14 isoform 2 precursor,-0.054923,5.013093
+NP_060887,ADCY10,adenylate cyclase type 10 isoform 1,0.086953,2.103973
+NP_001092275,ANKRD20B,ankyrin repeat domain-containing protein 20A4,-0.159278,-3.083849
+NP_057576,RANGRF,ran guanine nucleotide release factor isoform A,0.228629,2.431640
+NP_001171273,NA,ran guanine nucleotide release factor isoform C,0.078280,2.431640
+NP_110410,PTDSS2,phosphatidylserine synthase 2,-0.226554,4.013434
+NP_004526,MYT1,myelin transcription factor 1,-0.307555,-3.244361
+NP_037489,PURG,purine-rich element-binding protein gamma isoform A,0.583913,2.779274
+NP_001015508,PURG,purine-rich element-binding protein gamma isoform B,0.590579,2.779274
+NP_055782,MTMR15,fanconi-associated nuclease 1 isoform a,-0.182063,-2.893151
+NP_002761,PRSS2,trypsin-2 preproprotein,-0.077379,2.958328
+XP_003960992,NA,PREDICTED: putative trypsin-6 isoform 2,0.086791,2.958328
+NP_001104753,IGF1,insulin-like growth factor 1 isoform 1 preproprotein,-0.095310,2.124746
+NP_000609,IGF1,insulin-like growth factor 1 isoform 4 preproprotein,0.295820,2.553214
+NP_001242914,NA,collectin-11 isoform f precursor,0.318187,2.727437
+NP_689624,ZNF786,zinc finger protein 786,0.130605,-2.606954
+NP_004117,GNG11,guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-11 precursor,0.003837,2.893332
+NP_068774,GNGT1,guanine nucleotide-binding protein G(T) subunit gamma-T1 precursor,-0.366237,2.802229
+NP_006395,PROCR,endothelial protein C receptor precursor,0.144224,3.355080
+NP_620126,CCDC126,coiled-coil domain-containing protein 126 precursor,-0.066718,3.242298
+NP_071400,TSPYL2,testis-specific Y-encoded-like protein 2,-0.128621,-3.647057
+NP_001032852,COL28A1,collagen alpha-1(XXVIII) chain precursor,-3.066973,0.000000
+NP_002079,GRIK5,"glutamate receptor ionotropic,-0.259002,-3.187395
+NP_001127965,TOMM6,mitochondrial import receptor subunit TOM6 homolog,0.108724,2.410288
+NP_659475,C2ORF39,dynein regulatory complex protein 1,0.045596,2.351462
+NP_938012,LMOD3,leiomodin-3,-0.684690,-3.625364
+NP_001035546,RHBDD2,rhomboid domain-containing protein 2 isoform a,-0.646218,-3.211089
+NP_789790,NLRP9,"NACHT,-0.140747,-2.480678
+NP_857596,CCDC67,coiled-coil domain-containing protein 67,-0.203962,-2.970612
+NP_056074,ICOSLG,ICOS ligand precursor,-0.297934,3.099203
+NP_060247,MKS1,Meckel syndrome type 1 protein isoform 1,-1.750212,-3.864286
+NP_037469,TIMM22,mitochondrial import inner membrane translocase subunit Tim22,-0.049941,2.350942
+NP_055489,EDEM1,ER degradation-enhancing alpha-mannosidase-like protein 1,-0.206540,-2.882722
+NP_077271,DERL1,derlin-1 isoform a,-0.625275,-2.780809
+NP_001073970,TMEM223,transmembrane protein 223,0.155030,-2.072414
+NP_001479,TADA2A,transcriptional adapter 2-alpha isoform a,-0.599181,-4.526276
+NP_001243276,NA,semaphorin-5B isoform 2,-0.049795,2.400506
+NP_078993,MCTP1,multiple C2 and transmembrane domain-containing protein 1 isoform L,-0.944047,-2.982913
+NP_057540,TMEM9,transmembrane protein 9 precursor,-0.523846,-3.038002
+NP_689732,C2ORF67,KAT8 regulatory NSL complex subunit 1-like protein,-0.059137,-4.438974
+NP_001136155,CCDC121,coiled-coil domain-containing protein 121 isoform 2,-0.803633,3.734686
+NP_085127,KLHL15,kelch-like protein 15,-0.212677,2.795395
+NP_005447,MAPK8IP1,C-Jun-amino-terminal kinase-interacting protein 1,-0.910786,4.753030
+XP_003960780,NA,PREDICTED: c-Jun-amino-terminal kinase-interacting protein 1-like,-1.252788,4.528640
+NP_689540,AK7,adenylate kinase 7,-3.135987,8.520237
+NP_006040,SNAPC5,snRNA-activating protein complex subunit 5,-0.134054,-2.414657
+NP_064629,CHPT1,cholinephosphotransferase 1,-0.541550,-3.206409
+NP_000824,GRIN2A,"glutamate receptor ionotropic,0.141565,2.336835
+NP_060689,CCDC87,coiled-coil domain-containing protein 87,0.161727,-3.081840
+NP_598004,KCNV2,potassium voltage-gated channel subfamily V member 2,-0.831533,-2.952810
+NP_207837,CNTNAP4,contactin-associated protein-like 4 isoform 1 precursor,-0.352482,-3.132301
+NP_001164163,CAGE1,cancer-associated gene 1 protein isoform 1,-1.214667,-5.739344
+NP_995586,CAGE1,cancer-associated gene 1 protein isoform 3,-1.037588,-5.739344
+NP_000404,HSD17B1,estradiol 17-beta-dehydrogenase 1,-0.181502,-2.399356
+NP_004107,FKBP1B,peptidyl-prolyl cis-trans isomerase FKBP1B isoform a,-1.537389,-4.201800
+NP_689879,NA,inactive phospholipase D5 isoform 1,-0.759833,-3.613219
+NP_003713,TP63,tumor protein 63 isoform 1,0.520067,5.279030
+NP_001012267,CENPP,centromere protein P,-0.205797,-2.871790
+NP_612439,ADPRHL1,[ignal peptide peptidase-like 2A precursor,-0.605563,-5.095001
+NP_002142,HPN,serine protease hepsin precursor,-1.599884,2.355377
+NP_477521,MUCL1,mucin-like protein 1 precursor,-5.456427,4.392056
+NP_001177695,NA,stathmin domain-containing protein 1,-1.033579,-5.360053
+NP_000411,KEL,kell blood group glycoprotein,-0.094094,3.371100
+NP_056297,SLC22A23,solute carrier family 22 member 23 isoform a,-0.668700,-3.500833
+NP_002575,PAX7,paired box protein Pax-7 isoform 1,-1.347751,-3.739485
+NP_009206,TUSC2,tumor suppressor candidate 2,0.118330,2.383197
+NP_112566,TEX11,testis-expressed sequence 11 protein isoform 2,-0.480906,-4.789016
+XP_003960648,NA,PREDICTED: putative uncharacterized protein LOC400499,-0.773959,-4.121849
+XP_003846609,NA,PREDICTED: putative uncharacterized protein C12orf63,-0.722253,-4.121849
+NP_660323,FAM119A,protein-lysine methyltransferase METTL21A,-0.297790,1.942381
+NP_722576,GPR112,probable G-protein coupled receptor 112,-0.417007,-2.783297
+NP_001229243,NA,mitogen-activated protein kinase kinase kinase 13 isoform 1,-0.459865,-2.648135
+NP_612641,HDGFL1,hepatoma-derived growth factor-like protein 1,-2.272886,-4.697316
+NP_001020118,YIPF5,protein YIPF5 isoform a,-0.077032,-2.101917
+NP_115981,ACCS,1-aminocyclopropane-1-carboxylate synthase-like protein 1,-1.099036,-3.360063
+NP_056162,RIMBP2,RIMS-binding protein 2,-0.689979,-4.704993
+NP_004097,FCER1G,high affinity immunoglobulin epsilon receptor subunit gamma precursor,-0.242616,-2.580366
+NP_001224,CAV2,caveolin-2 isoform a,-0.299820,-2.713591
+NP_000833,GRM5,metabotropic glutamate receptor 5 isoform b precursor,-1.282470,-4.529181
+NP_001002860,BTBD7,BTB/POZ domain-containing protein 7 isoform 1,-0.671395,-3.195669
+NP_064618,C17ORF48,manganese-dependent ADP-ribose/CDP-alcohol diphosphatase,0.482190,2.832457
+NP_955387,ADAMTS18,A disintegrin and metalloproteinase with thrombospondin motifs 18 preproprotein,-2.393126,0.000000
+NP_055959,ZCCHC14,zinc finger CCHC domain-containing protein 14,-0.712605,-6.048186
+NP_055916,GLT25D2,procollagen galactosyltransferase 2 precursor,-0.163363,-3.120536
+NP_005636,TAF13,transcription initiation factor TFIID subunit 13,-0.195946,-2.589965
+NP_054760,SPCS1,signal peptidase complex subunit 1,-0.745105,-2.828181
+NP_061909,HMGCLL1,"3-hydroxymethyl-3-methylglutaryl-CoA lyase,-1.981707,0.080500
+NP_068368,ADAM22,disintegrin and metalloproteinase domain-containing protein 22 isoform 2 preproprotein,-1.244062,-4.360386
+NP_001106795,NA,CST complex subunit TEN1,-0.088950,2.895594
+NP_078919,FAM164C,zinc finger C2HC domain-containing protein 1C isoform a,-0.718805,-2.744830
+NP_055209,GHITM,growth hormone-inducible transmembrane protein,-0.344590,-3.826140
+NP_004846,PIGB,GPI mannosyltransferase 3,-0.181991,-3.612676
+NP_001244953,NA,SKI family transcriptional corepressor 1,-1.113017,-4.378761
+NP_006064,TRDN,triadin isoform 1,-0.957596,-3.951878
+NP_003467,CSRP3,cysteine and glycine-rich protein 3,-1.420400,-3.743455
+NP_001258074,NA,"type 2 lactosamine alpha-2,-0.110408,6.421433
+NP_001238774,NA,short transient receptor potential channel 1 isoform 1,-0.153696,-2.718679
+NP_001186728,NA,immunoglobulin-like domain-containing receptor 1 isoform 1 precursor,-0.087491,-2.146813
+NP_003629,ITGA8,integrin alpha-8 precursor,-0.687877,-3.333243
+NP_001012520,C9ORF117,uncharacterized protein C9orf117,-0.830460,-3.227573
+NP_001091999,TXNDC2,thioredoxin domain-containing protein 2 isoform 2,-0.167259,-3.255360
+NP_001230678,NA,modulator of retrovirus infection homolog isoform 2,0.024053,2.070038
+NP_060835,MNS1,meiosis-specific nuclear structural protein 1,-0.617962,-2.852404
+NP_060251,CYP2W1,cytochrome P450 2W1 precursor,-0.336814,2.102843
+NP_001071062,C14ORF73,exocyst complex component 3-like protein 4,-1.430885,-3.805538
+NP_006799,SEC61B,protein transport protein Sec61 subunit beta,0.038791,-2.009489
+NP_001092690,ZNF862,zinc finger protein 862,-1.224490,-5.062654
+NP_004935,DNASE1L3,deoxyribonuclease gamma isoform 1 precursor,-2.164705,-0.124609
+NP_000705,TSPO,translocator protein,0.261042,-1.846644
+NP_001017437,CCDC157,coiled-coil domain-containing protein 157,-0.225163,-2.788204
+NP_000021,AGXT,serine--pyruvate aminotransferase,-0.379080,-3.585696
+NP_073732,ELOVL1,elongation of very long chain fatty acids protein 1 isoform 1,-0.806031,-3.811329
+NP_008959,TRIM31,E3 ubiquitin-protein ligase TRIM31,-2.159884,-5.517556
+NP_005942,MT1H,metallothionein-1H,-1.897779,-4.037148
+NP_001020775,ARRDC2,arrestin domain-containing protein 2 isoform 2,-1.458708,-4.121849
+NP_002092,GYPC,glycophorin-C isoform 1,0.019545,5.374766
+NP_001128320,CCDC152,coiled-coil domain-containing protein 152,0.191523,-3.641125
+NP_689932,SPERT,spermatid-associated protein,0.055549,-4.134285
+NP_036321,CABYR,calcium-binding tyrosine phosphorylation-regulated protein isoform a,-1.523099,-4.330293
+NP_001034931,C17ORF90,oxidoreductase-like domain-containing protein 1,-0.573785,1.971399
+NP_005932,MMP16,matrix metalloproteinase-16 precursor,-0.841893,-3.174893
+NP_001013716,SRRD,SRR1-like protein,-0.508535,-3.952548
+NP_004824,AIM2,interferon-inducible protein AIM2,-1.226580,4.833518
+NP_001170787,NA,sodium-dependent phosphate transport protein 2C,-0.361979,-2.696628
+NP_777550,ANUBL1,AN1-type zinc finger protein 4,0.287837,-1.999353
+NP_056219,NA,whirlin isoform 1,-0.362803,-4.731429
+NP_954870,TPTE,putative tyrosine-protein phosphatase TPTE isoform alpha,-0.134692,-2.453919
+NP_060749,TMEM19,transmembrane protein 19,-1.018112,-4.223797
+NP_694573,ZNF75A,zinc finger protein 75A,-1.622614,-3.864286
+NP_542193,BRI3BP,BRI3-binding protein precursor,-2.455940,0.000000
+NP_659402,TTC16,tetratricopeptide repeat protein 16,-0.632227,-3.979588
+NP_000209,KCNQ1,potassium voltage-gated channel subfamily KQT member 1,-1.080278,-5.549611
+NP_001127846,SPATC1,speriolin isoform 2,-2.831874,0.000000
+NP_078848,GALNT14,polypeptide N-acetylgalactosaminyltransferase 14 isoform 1,-0.614871,-2.988744
+NP_940918,GALNTL4,polypeptide N-acetylgalactosaminyltransferase 18,-0.863877,-3.505054
+NP_776245,TPPP2,tubulin polymerization-promoting protein family member 2,-2.918294,0.000000
+NP_060766,LRRC36,leucine-rich repeat-containing protein 36 isoform 1,-0.723749,-2.764203
+NP_075555,FOXL2,forkhead box protein L2,-0.072290,-2.301994
+NP_006762,KRT38,"keratin,-1.000021,2.800957
+NP_003761,KRT37,"keratin,-1.085690,3.974401
+NP_056483,RGS22,regulator of G-protein signaling 22,-0.647894,-3.407712
+NP_001138482,C12ORF70,uncharacterized protein C12orf70,-0.020770,-2.983878
+NP_079321,BAIAP2L2,brain-specific angiogenesis inhibitor 1-associated protein 2-like protein 2,-0.563218,-3.067071
+NP_849158,PLD6,mitochondrial cardiolipin hydrolase,-1.071854,-4.124349
+NP_005459,NAALADL1,N-acetylated-alpha-linked acidic dipeptidase-like protein,-0.235470,-3.488590
+NP_065394,MCOLN1,mucolipin-1,-0.861790,-4.582563
+NP_002458,MYC,myc proto-oncogene protein,-0.708096,4.700596
+NP_001004432,LINGO4,leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 4 precursor,0.514920,4.028134
+NP_009157,NXPH2,neurexophilin-2 precursor,0.345635,-1.999353
+NP_473365,MIA2,melanoma inhibitory activity protein 2 precursor,-0.478954,-2.915926
+NP_003826,RGS9,regulator of G-protein signaling 9 isoform 1,-0.146810,-2.315667
+NP_000470,AMH,muellerian-inhibiting factor precursor,-0.081845,1.969023
+NP_001004489,OR2AG1,olfactory receptor 2AG1,-5.878057,-1.820311
+NP_067025,TP53INP2,tumor protein p53-inducible nuclear protein 2,0.045737,-3.526827
+NP_000071,CHRNE,acetylcholine receptor subunit epsilon precursor,0.078165,-2.010792
+NP_695001,NA,uncharacterized protein C20orf96 isoform 1,-0.658143,-5.739344
+NP_057219,ETV7,transcription factor ETV7 isoform 1,-0.441309,-3.524560
+NP_776159,ZCCHC12,zinc finger CCHC domain-containing protein 12,-5.205704,-2.648874
+NP_001191125,NA,signal recognition particle 19 kDa protein isoform 4,0.170064,2.519337
+NP_872333,CABP7,calcium-binding protein 7,0.187668,-2.388381
+NP_778232,RASGEF1C,ras-GEF domain-containing family member 1C,-1.367237,-4.544947
+XP_003960847,NA,PREDICTED: uncharacterized protein LOC100288336,-0.580085,-2.790247
+NP_001177370,NA,galectin-16,-2.617647,0.000000
+NP_671723,LASS5,ceramide synthase 5,-0.972085,-4.042522
+NP_004952,GABRE,gamma-aminobutyric acid receptor subunit epsilon precursor,-2.057883,0.000000
+NP_036386,SLC27A5,bile acyl-CoA synthetase precursor,-0.363724,-3.612676
+NP_660329,STOML3,stomatin-like protein 3 isoform 1,-0.204611,2.582573
+NP_116053,FUT10,"alpha-(1,-0.374857,-2.800412
+NP_001193949,NA,putative protein shisa-8 precursor,-0.026094,2.273256
+NP_001121687,LIPM,lipase member M precursor,-1.338718,-4.403043
+NP_055281,TEKT2,tektin-2,-0.449147,-2.603786
+NP_940893,FAM92B,protein FAM92B,-0.147302,-2.441712
+NP_542778,ZNF280A,zinc finger protein 280A,-0.260347,-2.390181
+NP_699167,PSTK,L-seryl-tRNA(Sec) kinase,-1.834640,-3.864286
+NP_002034,NA,gamma-aminobutyric acid receptor subunit rho-2 precursor,-2.012862,0.000000
+NP_001087199,NA,dystrotelin,-2.307805,0.000000
+NP_068575,IL21,interleukin-21 isoform 1 precursor,0.194029,4.638299
+NP_653322,THAP6,THAP domain-containing protein 6,-0.074447,3.105503
+NP_001138640,GPR113,probable G-protein coupled receptor 113 isoform 1 precursor,-0.111510,-3.723399
+NP_001004339,ZYG11A,protein zyg-11 homolog A,-0.149702,-3.415742
+NP_848648,C2ORF53,uncharacterized protein C2orf53,-0.136154,-2.489218
+NP_149040,SLC46A2,thymic stromal cotransporter homolog,0.440467,2.859782
+NP_001185982,NA,putative RNA exonuclease NEF-sp isoform 1,-2.563593,0.000000
+NP_996805,CRIP3,cysteine-rich protein 3,-2.260911,-5.575894
+NP_078879,BEND5,BEN domain-containing protein 5,0.832812,5.507378
+XP_003118572,NA,PREDICTED: uncharacterized protein C4orf50,-1.430153,-4.730439
+NP_066009,PPP4R4,serine/threonine-protein phosphatase 4 regulatory subunit 4 isoform 2,-2.495498,0.000000
+NP_001007596,C2CD4B,C2 calcium-dependent domain-containing protein 4B,-0.075430,-3.715103
+NP_000610,IFNG,interferon gamma precursor,-2.098639,-4.205865
+NP_001138229,SCG5,neuroendocrine protein 7B2 isoform 1 precursor,-0.425908,-2.838239
+NP_068835,UTS2,urotensin-2 isoform a preproprotein,0.167864,-1.876604
+NP_065933,COL20A1,collagen alpha-1(XX) chain precursor,-0.470018,-4.076090
+NP_004051,CCNG1,cyclin-G1,-1.233521,-4.197427
+NP_061841,SNTG2,gamma-2-syntrophin,-2.915970,0.000000
+NP_001014979,NA,coiled-coil domain-containing protein C16orf93 isoform 1,0.158707,-2.138171
+NP_001191293,NA,protein FAM24B precursor,-2.086743,-5.238770
